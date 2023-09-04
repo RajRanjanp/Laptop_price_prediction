@@ -1,0 +1,3770 @@
+,Brand,CPU,Graphics,RAM,Display,Storage,Battery,Camera,Weight,Price,Type
+0,Dell,"11th Generation Intel® Core™ i3-1115G4 Processor (6MB Cache, up to 4.1 GHz)",Intel UHD Graphics,"
+4GB DDR4, 2666MHzExpandable up to 16GB
+",15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; Anti-glare LED Backlight Non-Touch Narrow Border WVA Display,128GB SSD + 1tb hdd,3-Cell 42 Watt-Hours Integrated,720p,1.85kg,55000,Normal
+1,Dell,"11th Generation Intel® Core™ i5-1135G7 Processor (8MB Cache, up to 4.2 GHz)",Intel® Iris® Xe Graphics with shared graphics memory,"
+8GB DDR4, 2666MHzExpandable up to 16GB
+",15.6-inch Full-HD (1920 x 1080 pixels) Anti-glare LED Backlight Non-touch Narrow Border WVA Display,512GB SSD,3-Cell 42 Watt-Hours Integrated,720p,1.85kg,78000,Normal
+2,Dell,AMD Ryzen™ 5 5625U 6-core/12-thread Processor ,Radeon™ Graphics,"8 GB, 1 x 8 GB, DDR4, 3200 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,"3 Cell, 41 Wh, integrated",720p at 30 fps HD camera,1.68 kg,84300,Normal
+3,Dell,"11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz)",NVIDIA GeForce MX350 with 2GB GDDR5 graphics memory,"
+8GB DDR4, 2666MHzExpandable up to 16GB
+",15.6-inch Full-HD (1920 x 1080 pixels) Anti-glare LED Backlight Non-touch Narrow Border WVA Display,512GB SSD,3-Cell 42 Watt-Hours Integrated,720p,1.85kg,85000,Normal
+4,Dell,"
+
+AMD Ryzen 5 5500U 6-core/12-thread Mobile Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 2666MHzExpandable up to 16GB",15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display,256 SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,720p,1.6g,85000,Normal
+5,Dell,"
+
+AMD Ryzen 5 5500U 8-core/16-thread Mobile Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 2666MHzExpandable up to 16GB",14-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; Anti-glare LED Backlight Non-Touch Narrow Border WVA Display,256 SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,720p,1.4g,85000,Normal
+6,Dell,"Intel Core i5-1235U Processor 1.3 GHz (10M Cache, up to 4.4 GHz, 10 cores)","
+Nvidia MX550 2GB DDr5 Graphic 
+","8GB, onboard, LPDDR4, 3200 MHz","
+15.6"", FHD 1920 x 1080, 60Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),86000,Normal
+7,Dell,"
+
+AMD Ryzen 5 5625U 6-core/12-thread Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB DDR4 RAM, 3200MHzExpandable up to 16GB","16.1-inch IPS display; Full-HD+ (1920 x 1200 pixels) resolution; 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nit, ComfortView",512GB SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.87Kg,94000,Normal
+8,Dell,12th Generation Intel® Core™ i5-1235U  Processor ,Intel,"8GB, onboard, LPDDR4, 2666 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",256GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),98400,Normal
+9,Dell,AMD Ryzen 7 5825U 8-core/16-thread Processor ,Radeon™ Graphics,"8 GB, 1 x 8 GB, DDR4, 3200 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,"3 Cell, 41 Wh, integrated",720p at 30 fps HD camera,1.68 kg,101400,Normal
+10,Dell,12th Generation Intel® Core™ i5-1235U  Processor ,Intel,"8GB, onboard, LPDDR4, 2666 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),103000,Normal
+11,Dell,"
+
+11th Generation Intel® Core™ i5-11320H Processor (8MB Cache, up to 4.5GHz)
+
+",Intel® Iris® Xe Graphics with shared graphics memory,"8GB, DDR4, 3200MHz","
+
+15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display
+
+",256GB SSD,"
+
+4-Cell Battery, 54WHr (Integrated)
+
+","
+
+HD 1280 x 720 at 30 fps cameraDual-array microphones
+
+",1.63 kg,105000,Normal
+12,Dell,"
+
+AMD® Ryzen™ 5 5625U (16 MB total cache, 6 cores, 12 threads)
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 3200MHzExpandable up to 16GB","14"", FHD+ 1920x1200, 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nit, ComfortView",512GB SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.54Kg,105000,Normal
+13,Dell,"11th Generation Intel Core i5-11320H Processor (8MB Cache, 4.5GHz)",Intel Iris Xe Graphics with shared graphics memory,"
+8GB, onboard, LPDDR4x, 4267MHz
+",13.3-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch Narrow Border 300nits WVA Display,"512 GB, M.2, PCIe NVMe, SSD",4-Cell 54 Watt-Hours Integrated,"720p at 30 fps, HD RGB camera, dual-array microphones",1.26kg,109000,Normal
+14,Dell,"
+
+12th Gen Intel® Core™ i5-1235U (12 MB cache, 10 cores, 12 threads, up to 4.40 GHz Turbo)
+
+","
+
+Intel® UHD Graphics
+
+","8GB, DDR4, 3200MHzExpandable up to 16GB","16.1-inch IPS display; Full-HD+ (1920 x 1200, pixels) resolution; 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nits, ComfortView",256GB SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.87Kg,113400,Normal
+15,Dell,10th Generation Intel® Core™ i5-10300H Processor,NVIDIA® GeForce GTX® 1650 Ti 4GB GDDR6,"
+8GB DDR4, 3200MHzExpandable up to 32GB
+",15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Non-touch Wide Viewing Angle 100%sRGB 8bit,"512 GB, M.2, PCIe NVMe, SSD",3-Cell 56 Watt-Hours Integrated,720p,1.75kg,115000,Normal
+16,Dell,"
+
+AMD Ryzen 7 5700U 8-core/16-thread Mobile Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 2666MHzExpandable up to 16GB",14-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; Anti-glare LED Backlight Non-Touch Narrow Border WVA Display,512 SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,720p,1.4g,115000,Normal
+17,Dell,12th Generation Intel® Core™ i7-1255U  Processor ,Intel,"8GB, onboard, LPDDR4, 3200 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),115000,Normal
+18,Dell,"
+
+AMD Ryzen 7 5700U 8-core/16-thread Mobile Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 2666MHzExpandable up to 16GB",15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Non-touch Narrow Border WVA Display,512 SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,720p,1.6g,115000,Normal
+19,Dell,"11th Generation Intel® Core™ i7-1165G7 Processor (12MB Cache, up to 4.7 GHz)","NVIDIA® GeForce® MX 350, 2 GB GDDR5","
+8GB DDR4, 3200MHzExpandable up to 16GB
+",15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display,"512 GB, M.2, PCIe NVMe, SSD",3-Cell 42 Watt-Hours Integrated,720p,1.85kg,116000,Normal
+20,Dell,9th Generation Intel Core i7-9750H ,NVIDIA® GeForce® GTX 1660TI with 6GB GDDR5 graphics memory,"16GB, DDR4, 2666MHz; up to 32GB (additional memory sold separately)",15.6-inch Full-HD (1920 x 1080 pixels) IPS ,256GB SSD + 1TB HDD,"3-Cell Battery, 51 Whr (Integrated)",720p,2.34 kg,119000,Normal
+21,Dell,12th Generation Intel® Core™ i7-1255U  Processor ,Intel,"8GB, onboard, LPDDR4, 3200 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),119700,Normal
+22,Dell,12th Generation Intel® Core™ i5-1235U  Processor ,"
+NVIDIA MX550 2GB GDDR6
+","8GB, onboard, LPDDR4, 2666 MHz","
+15.6"", FHD 1920 x 1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
+",512GB SSD,65 Watt AC Adapter,720p,1.65 kg (3.65 lbs.),122600,Normal
+23,Dell,12th Generation Intel® Core™ i5-1235U  Processor ,Intel,"8GB, onboard, LPDDR4, 3200 MHz","
+14.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support
+",512GB SSD,"4 Cell, 54 Wh, integrated",1080p at 30 fps FHD cameraDual-array microphones,1.54 kg (3.40 lbs.),125800,Normal
+24,Dell,"
+
+AMD Ryzen 7 5825U 8-core / 16-thread Processor with Radeon™ Graphics
+
+","
+
+AMD Radeon Vega Graphics
+
+","8GB, DDR4, 3200MHzExpandable up to 16GB","16.1-inch IPS display; Full-HD+ (1920 x 1200, pixels) resolution; 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nits, ComfortView",512GB SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.87Kg,128000,Normal
+25,Dell,"
+
+13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)
+
+","
+
+Intel® Iris® Xe Graphics
+
+","8 GB, LPDDR5, 4800 MHz, integrated","14-inch Full-HD+ (1920 x 1200 pixels), 16:10 aspect ratio; 60Hz refresh rate, Touch display, WVA, TrueLife™, Narrow Border, Pen Support",512GB SSD,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.57Kg,128000,Normal
+26,Dell,AMD Ryzen 7 5825U Mobile Processor with Radeon Graphics,"
+
+AMD Radeon Graphics with shared graphics memory
+
+",8GB,"
+
+14"", FHD+ 1920x1200, 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nit, ComfortView
+
+","
+
+512 GB, M.2, PCIe NVMe, SSD
+
+",65 Watt AC Adapter,"
+
+1080p at 30 fps FHD cameraDual-array microphones
+
+",1.54KG(3.4 lb),129000,Normal
+27,Dell,"11th Generation Intel® Core™ i7-11390H Processor (12MB Cache, up to 5.0GHz)",Intel® Iris® Xe Graphics with shared graphics memory,"
+8GB, onboard, LPDDR4x, 4267MHz
+",13.3-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch Narrow Border 300nits WVA Display,"512 GB, M.2, PCIe NVMe, SSD",4-Cell 54 Watt-Hours Integrated,"720p at 30 fps, HD RGB camera, dual-array microphones",1.26kg,133000,Normal
+28,Dell,11th Generation Intel Core™ i5-11400H ,NVIDIA GeForce RTX 3050 4GB GDDR6,"8GB, DDR4, 2933MHz; up to 32GB (additional memory sold separately)","
+
+15.6-inch IPS display; 120Hz refresh rate; Full-HD (1920 x 1080 pixels) resolution; 250 nits brightness; Anti- Glare panel; LED-Backlit display with Narrow Bezels
+
+",512GB SSD,"
+
+
+Intel® Wi-Fi 6 AX201 (2x2) Wi-Fi + Bluetooth
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.44 kg,135000,Normal
+29,Dell,"
+
+12th Gen Intel® Core™ i7-1255U (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)
+
+","
+
+Intel® UHD Graphics
+
+","16GB, DDR4, 3200MHzExpandable up to 16GB","16.1-inch IPS display; Full-HD+ (1920 x 1200, pixels) resolution; 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nits, ComfortView",512GB SSD; Additional HDD slot available,4-Cell 54 Watt-Hours Integrated,1080p at 30 fps FHD cameraDual-array microphones,1.87Kg,135000,Normal
+30,Dell,12th Generation Intel® Core™ i7-1255U  Processor ,Intel,"8GB, onboard, LPDDR4, 3200 MHz","
+14.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support
+",512GB SSD,"4 Cell, 54 Wh, integrated",1080p at 30 fps FHD cameraDual-array microphones,1.54 kg (3.40 lbs.),139700,Normal
+31,Dell,"
+
+
+
+12th Gen Intel® Core™ i5-12500H (18 MB cache, 12 cores, 16 threads, up to 4.50 GHz Turbo)
+
+
+
+",NVIDIA® GeForce RTX™ 3050ti  4GB GDDR6,"
+
+16 GB, 2 x 8 GB, DDR5, 4800 MHz
+
+","
+
+
+
+15.6"", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 250 nit, Narrow Border
+
+
+
+","
+
+512GB M.2 PCIe NVMe Solid State Drive
+
+","
+
+
+
+
+3 Cell, 56 Wh, integrated
+
+
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.57 kg,145000,Normal
+32,Dell,"
+
+
+
+AMD Ryzen™ 7 5800H 8-core/16-thread Mobile Processor
+
+
+
+",NVIDIA® GeForce RTX™ 3050ti  4GB GDDR6,"
+
+8GB, 1x8GB, DDR4, 3200MHz
+
+","
+
+
+
+15.6-inch FHD (1920 x 1080) 120Hz 300 nits WVA Anti- Glare LED Backlit Narrow Border Display
+
+
+
+","
+
+512GB M.2 PCIe NVMe Solid State Drive
+
+","
+
+
+
+
+6-Cell Battery, 86WHr (Integrated)
+
+
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.57 kg,155000,Normal
+33,Dell,"
+
+10th Generation Intel Core i7-10870H (16MB Cache, up to 5.0 GHz, 8 cores)
+
+",NVIDIA GeForce RTX 3060 6GB GDDR6,"16GB, DDR4, 2933MHz; up to 32GB (additional memory sold separately)","
+
+15.6-inch IPS display; 165Hz refresh rate; Full-HD (1920 x 1080 pixels) resolution; 300 nits brightness; Anti- Glare panel; LED-Backlit display with Narrow Bezels
+
+",512GB SSD,"
+
+6-Cell Battery, 86WHr (Integrated)
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.44 kg,159000,Normal
+34,Dell,"10th Gen Intel Core i7-10870H Processor, 2.2 GHz (16MB Cache, up to 5.0 GHz, 8 Cores, 16 Threads)","NVIDIA GeForce RTX 2060, 6GB GDDR6","16GB, DDR4, 3200MHz","15.6 inch FHD(1920x1080) 300nits WVA Anti-Glare LED Backlit Display(non-touch), 300Hz refresh rate",1TB SSD,"4-Cell Battery, 68 Whr (Integrated)",720p,2.39 kg,160000,Normal
+35,Dell,"10th Gen Intel Core i7-10750H Hexa Core Processor (12M Cache, up to 5.0 GHz)","NVIDIA GeForce RTX 2060, 6GB GDDR6","16GB, DDR4, 3200MHz",15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 300nits brightness; 144Hz refresh rate,512Gb SSD,"4-Cell Battery, 68 Whr (Integrated)",720p,2.39 kg,170000,Normal
+36,Dell,"
+
+
+
+AMD Ryzen™ 7 5800H 8-core/16-thread Mobile Processor
+
+
+
+",NVIDIA® GeForce RTX™ 3060  6GB GDDR6,"
+
+16GB, 2x8GB, DDR4, 3200MHz
+
+","
+
+
+
+15.6-inch FHD (1920 x 1080) 165Hz 300 nits WVA Anti- Glare LED Backlit Narrow Border Display
+
+
+
+","
+
+512GB M.2 PCIe NVMe Solid State Drive
+
+","
+
+
+
+
+6-Cell Battery, 86WHr (Integrated)
+
+
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.57 kg,175000,Normal
+37,Dell,"12th Gen Intel® Core™ i7-1255U (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)",Nvidia MX550 2GB DDR6 Graphic card ,"16 GB, 2 x 8 GB, DDR4, 3200 MHz","
+14"", FHD+ 1920x1200, 60Hz, Touch, WVA, TrueLife™, Narrow Border, Pen Support
+",512GB SSD,"4 Cell, 54 Wh, integrated","1080p at 30 fps, FHD camera",1.63 kg,179000,Normal
+38,Dell,12th Generation Intel® Core™ i7-1255U  Processor ,NVIDIA MX570 2GB GDDR6,"16GB, onboard, LPDDR4, 3200 MHz","
+14.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support
+",1TB SSD,"4 Cell, 54 Wh, integrated",1080p at 30 fps FHD cameraDual-array microphones,1.54 kg (3.40 lbs.),183000,Normal
+39,Dell,"
+
+11th Generation Intel® Core™ i7-11800H (24MB Cache, up to 4.6 GHz, 8 cores)
+
+",NVIDIA® GeForce RTX™ 3060  6GB GDDR6,"
+
+16GB, 2x8GB, DDR4, 3200MHz
+
+","
+
+
+
+15.6-inch FHD (1920 x 1080) 165Hz 300 nits WVA Anti- Glare LED Backlit Narrow Border Display
+
+
+
+","
+
+512GB M.2 PCIe NVMe Solid State Drive
+
+","
+
+
+
+
+6-Cell Battery, 86WHr (Integrated)
+
+
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.65 kg,185000,Normal
+40,Dell,"
+
+
+
+12th Gen Intel® Core™ i7-12700H (24 MB cache, 14 cores, 20 threads, up to 4.70 GHz Turbo)
+
+
+
+",NVIDIA® GeForce RTX™ 3050ti  4GB GDDR6,"
+
+16 GB, 2 x 8 GB, DDR5, 4800 MHz
+
+","
+
+
+
+15.6"", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 250 nit, Narrow Border
+
+
+
+","
+
+512GB M.2 PCIe NVMe Solid State Drive
+
+","
+
+
+
+
+3 Cell, 56 Wh, integrated
+
+
+
+
+","
+
+HD RGB camera with digital-array microphones in camera assembly
+
+",2.57 kg,185000,Normal
+41,Dell,10th Generation Intel Core i7-10750H,NVIDIA GeForce RTX 2070 SUPER with 8GB GDDR6 VRAM,16GB DDR4 3200Mhz,"15.6"" Full-HD (1920 x 1080 pixels) 300Hz refresh rate, 3ms response time, 300-nits brightness, 100% sRGB color gamut",512GB SSD,"
+
+Lithium-Ion, 6-cell
+
+
+",Alienware HD (1280 x 720 pixels resolution) camera with dual-array integrated microphones,2.11Kg,210000,Normal
+42,Dell,"12th Gen Intel Core i7-12700H (24 MB cache, 14 cores, 20 threads, up to 4.70 GHz Turbo)","NVIDIA® GeForce RTX™ 3060, 6 GB GDDR6","16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel","
+15.6-inch IPS display, Full-HD (1920 x 1080 pixels) resolution, 120Hz refresh rate, WVA, Non-Touch, Anti-Glare, 250 nits brightness, Narrow Border, LED-Backlit
+","512 GB, M.2, PCIe, SSD","6-Cell Battery, 86WHr (Integrated)",720p,2.672 KG,215000,Normal
+43,Dell,"12th Gen Intel® Core™ i7-1250U (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)",Intel® Iris® Xe Graphics,"16 GB, LPDDR5, 5200 MHz, integrated, dual-channel","
+13.4"", FHD+ 1920 x 1200, 60Hz, Non-Touch, Anti-Glare, 500 nit, InfinityEdge
+",512GB SSD,"3 Cell, 51 Wh, integrated","720p at 30 fps HD RGB camera, 400p at 30 fps IR camera, dual-array microphones",1.17 kg,215200,Normal
+44,Dell,"10th Generation Intel® Core™ i7-10750H (12MB Cache, up to 5.0 GHz, 6 cores)z",NVIDIA® GeForce® GTX 1650ti 4GB GDDR6,16GB DDR4-2666MHz,"15.6"" FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit Display",1TB PCIe Solid State Drive,"86 Wh Lithium-Ion, six cells",720p,"21.83kg – with 86 WHr battery, SSD",255000,Normal
+45,Dell,"11th Generation Intel® Core™ i7-1185G7 Processor (12MB Cache, up to 4.8 GHz)",Intel® Iris Xe Graphics,"16 GB, LPDDR4x, 4267 MHz, integrated, dual channel","13.4"" OLED 3.5K (3456 x 2160) InfinityEdge Touch Anti-Reflective 400-Nit Display",512GB PCIe Solid State Drive,"4-Cell, 52 WHr, Integrated battery",Widescreen HD (720p) 2.25mm webcam,Starting at 2.64 lb (1.2 kg),255000,Normal
+46,Dell,"12th Gen Intel® Core™ i7-1260P (18 MB cache, 12 cores, 16 threads, up to 4.70 GHz Turbo)",Intel® Iris® Xe Graphics,"16 GB, LPDDR5, 5200 MHz, integrated, dual-channel","
+13.4"", FHD+ 1920 x 1200, 60Hz, Touch, Anti-Glare, 500 nit, InfinityEdge
+",512GB SSD,"3 Cell, 55 Wh, integrated","720p at 30 fps HD RGB camera, 400p at 30 fps IR camera, dual-array microphones",1.23 kg,288400,Normal
+47,Dell,"11th Gen Intel Core i7-11800H; 8 core, 16 Threads ",Nvidia Geforce RTX 3070 8GB GDDR6,32GB,"15.6-inch Quad-HD (2560 x 1440 pixels), 240Hz refresh rate, Non-Touch, 2ms response time, Advanced Optimus, NVIDIA G-SYNC",1TB SSD,,720p,1.65kg,330000,Normal
+48,Lenovo,"
+Intel Celeron 6305 (2C / 2T, 1.8GHz, 4MB)
+","
+Integrated Intel UHD Graphics
+","
+4GB Soldered DDR4-2933
+","
+15.6"" FHD (1920x1080) IPS 250nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+","
+Integrated 36Wh
+","
+720p with Privacy Shutter
+","
+2.2 kg (4.8 lbs)
+",44000,Normal
+49,Lenovo,"
+AMD Ryzen 3 3250U (2C / 4T, 2.6 / 3.5GHz, 1MB L2 / 4MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+8GB SO-DIMM DDR4-2400
+","
+15.6"" FHD (1920x1080) TN 220nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+","
+Integrated 42Wh
+","
+HD 720p with Privacy Shutter
+","
+Around 1.6 kg (3.53 lbs)
+",52000,Normal
+50,Lenovo,"
+Intel Core i3-1115G4 (2C / 4T, 3.0 / 4.1GHz, 6MB)
+","
+Integrated Intel UHD Graphics
+","
+4GB Soldered DDR4-2933 + 4GB SO-DIMM DDR4-2933
+","
+15.6"" FHD (1920x1080) TN 220nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+","
+Integrated 36Wh
+","
+HD 720p with Privacy Shutter
+","
+2.2 kg (4.8 lbs)
+",58000,Normal
+51,Lenovo,"
+Intel® Core™ i3-1305U, 5C (1P + 4E) / 6T, P-core 1.6 / 4.5Ghz, E-core 1.2 / 3.3Ghz, 10MB
+","
+Integrated Intel® UHD Graphics
+","
+8GB Soldered LPDDR5-4800
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe® 4.0x4 NVMe®
+","
+Integrated 47Wh
+","
+720p with Privacy Shutter
+",1.65kg,58000,Normal
+52,Lenovo,"
+AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)
+","
+Integrated AMD Radeon 610M Graphics
+","
+8GB Soldered LPDDR5-5500
+","
+14"" FHD (1920x1080) TN 220nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 42Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.38 kg (3.04 lbs)
+",59900,"
+Slim and light Ultrabook
+"
+53,Lenovo,"
+AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)
+","
+Integrated AMD Radeon 610M Graphics
+","
+8GB Soldered LPDDR5-5500
+","
+14"" FHD (1920x1080) TN 220nits Anti-glare
+","
+256GB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 42Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.38 kg (3.04 lbs)
+",64000,Normal
+54,Lenovo,"
+AMD Ryzen™ 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)
+","
+Integrated AMD Radeon™ 610M Graphics
+","
+8GB Soldered LPDDR5-5500
+","
+14"" FHD (1920x1080) TN 220nits Anti-glare
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®
+","
+Integrated 42Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.38 kg (3.04 lbs)
+",68000,Normal
+55,Lenovo,"
+AMD Ryzen 5 5500U (6C / 12T, 2.1 / 4.0GHz, 3MB L2 / 8MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) TN 250nits Anti-glare, 45% NTSC
+","
+256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+","
+Integrated 45Wh
+","
+720p with Privacy Shutter
+","
+1.65 kg (3.64 lbs)
+",74000,Normal
+56,Lenovo,"
+Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
+","
+Integrated Intel Iris Xe Graphics functions as UHD Graphics
+","
+4GB Soldered DDR4-2933 + 4Gb Additional 
+","
+15.6"" FHD (1920x1080) IPS 250nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 36Wh
+","
+720p with Privacy Shutter
+","
+2.2 kg (4.8 lbs)
+",75000,"
+Budget Ultrabook
+"
+57,Lenovo,"
+AMD Ryzen™ 5 5600U (6C / 12T, 2.3 / 4.2GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+8GB Soldered LPDDR4x-4266
+","
+13.3"" WUXGA (1920x1200) IPS 300nits Anti-glare, 100% sRGB, Dolby® Vision™
+","
+256GB SSD M.2 2242 PCIe® 3.0x4 NVMe®
+","
+Integrated 56Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.26 kg (2.78 lbs)
+",80000,Normal
+58,Lenovo,"
+AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+8GB Soldered DDR4-3200
+","
+14"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 45Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.43 kg (3.15 lbs)
+",83000,Budget Notebook
+59,Lenovo,"
+AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+8GB Soldered DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe
+","
+Integrated 45Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.7 kg (3.75 lbs)
+",83000,Budget Notebook
+60,Lenovo,"
+AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.63 kg (3.59 lbs)
+",85000,"
+Budget Notebook
+"
+61,Lenovo,"
+Intel Core i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics functions as UHD Graphics
+","
+8GB Soldered DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.63 kg (3.59 lbs)
+",88000,Normal
+62,Lenovo,"
+Intel Core i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics functions as UHD Graphics
+","
+8GB Soldered DDR4-3200
+","
+14"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.43 kg (3.15 lbs)
+",88000,Normal
+63,Lenovo,"
+Intel® Core™ i5-1145G7 (4C / 8T, 2.6 / 4.4GHz, 8MB)
+","
+Integrated Intel® Iris® Xe Graphics
+","
+16GB Soldered DDR4-3200
+",15.6,"
+512GB SSD M.2 2280 PCIe® 3.0x4 NVMe® Opal 2.0
+","
+Integrated 46Wh
+","
+Front HD 720p + IR Hybrid with Privacy Shutter / Rear 5.0MP
+",1.65kg,95000,Normal
+64,Lenovo,"
+AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+16GB Soldered DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 57Wh
+",720p,"
+Around 1.85 kg (4.08 lbs)
+",99000,"
+Budget Notebook
+"
+65,Lenovo,"
+AMD Ryzen 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200
+","
+14"" IPS display; Full-HD (1920 x 1080 pixels) resolution; 300nits brightness; Anti-glare panel
+","
+512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.43 kg (3.15 lbs)
+",100000,Normal
+66,Lenovo,"
+AMD Ryzen 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.63 kg (3.59 lbs)
+",102000,Normal
+67,Lenovo,"
+AMD Ryzen™ 5 7530U (6C / 12T, 2.0 / 4.5GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+16GB Soldered DDR4-3200
+","
+16"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, TÜV Low Blue Light
+","
+1TB SSD M.2 2242 PCIe® 4.0x4 NVMe®
+","
+Integrated 75.4Wh
+","
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+","
+Starting at 1.89 kg (4.17 lbs)
+",104000,Normal
+68,Lenovo,"
+Intel® Core™ i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics Functions as UHD Graphics
+","
+8GB Soldered DDR4-3200
+","
+14"" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 57Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.59 kg (3.51 lbs)
+",106000,Normal
+69,Lenovo,"
+Intel Core i5-11300H (4C / 8T, 3.1 / 4.4GHz, 8MB)
+","
+Integrated Intel Iris Xe Graphics
+","
+16GB Soldered LPDDR4x-4266
+","
+14"" 2.8K (2880x1800) OLED 400nits Glossy, 100% DCI-P3, 90Hz, DisplayHDR™ True Black 500, Dolby® Vision™, Glass
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 61Wh
+","
+HD 720p + IR, ToF Sensor
+","
+Around 1.38 kg (3.04 lbs)
+",109000,"
+Thin and Light Ultrabook
+"
+70,Lenovo,"11th Gen Intel Core i5-1135G7 processor; (4 Cores / 8 Threads, 2.4 - 4.2GHz, 8MB)",Integrated Intel Iris Xe Graphics,8GB Soldered DDR4-3200MHz,"15.6-inch Full-HD (1920 x 1080 pixels) IPS display; 250nits brightness; Glossy, 45% NTSC, AGC Soda-lime glass",256GB SSD,"
+4 Cell Li-Polymer
+",720p,1.9KG,112000,Normal
+71,Lenovo,"
+Intel Core i5-10300H (4C / 8T, 2.5 / 4.5GHz, 8MB)
+","
+NVIDIA GeForce GTX 1650 Ti Max-Q 4GB GDDR6
+","
+1x 16GB SO-DIMM DDR4-2933
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB
+","
+512GB SSD M.2 2242 PCIe 3.0x4 NVMe
+","
+Integrated 57Wh
+","
+720p with ThinkShutter
+","
+Around 1.9 kg (4.19 lbs)
+",115000,Normal
+72,Lenovo,"
+AMD Ryzen 5 PRO 4650U Processor (2.10GHz, up to 4.00GHz Max Boost, 6 Cores, 12 Threads, 8MB Cache)
+",AMD Radeon Graphics,16GB DDR4-3200 DDR4 SDRAM Onboard 3200MHz,13.3-inch IPS display; Full-HD (1920 x 1080 pixels); 72% color gamut (Color Coverage Close to 100% sRGB); AntiGlare Narrow Bezel  LED Backlight ,"512GB SSD, M.2 2280, PCIe Gen3x4, OPAL2.0, TLC",6 Cell 48Wh Li-Polymer; Up to 13 hours battery life,720p,1.28Kg,115000,Normal
+73,Lenovo,"
+12th Generation Intel Core i5-1240P Processor (E-cores up to 3.30 GHz P-cores up to 4.40 GHz)
+","
+Integrated Intel Iris Xe Graphics
+",16GB,15.6,"
+512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+",,"
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+",1.65kg,116000,"
+Thin and Light Ultrabook
+"
+74,Lenovo,"
+AMD Ryzen 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+16GB Soldered DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 57Wh
+",720p,"
+Around 1.85 kg (4.08 lbs)
+",117000,"
+Budget Notebook
+"
+75,Lenovo,"
+AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3050 Ti 4GB GDDR6, Boost Clock 1485 / 1695MHz, TGP 95W
+","
+1x 8GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 250nits Anti-glare, 45% NTSC, 120Hz, FreeSync
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 60Wh
+","
+HD 720p with E-shutter
+","
+Around 2.4 kg (5.3 lbs)
+",118000,Normal
+76,Lenovo,"
+Intel Core i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics
+","
+8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+1TB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 38Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.63 kg (3.59 lbs)
+",118000,"
+Budget Notebook
+"
+77,Lenovo,"
+AMD Ryzen™ 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+16GB Soldered DDR4-3200
+","
+14"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 56.5Wh
+","
+FHD 1080p with Privacy Shutter
+","
+Around 1.39 kg (3.06 lbs)
+",118000,Normal
+78,Lenovo,"
+AMD Ryzen 7 7730U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon Graphics
+","
+16GB Soldered DDR4-3200
+","
+14"" WUXGA (1920 x 1200 pixels) IPS 300nits Anti-glare, 45% NTSC, TÜV Low Blue Light
+","
+1TB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 56.6Wh
+","
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+","
+Starting at 1.46 kg (3.22 lbs)
+",123000,Normal
+79,Lenovo,"
+Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
+","
+Integrated Intel Iris Xe Graphics functions as UHD Graphics
+","
+1x 16GB SO-DIMM DDR4-3200
+","
+14"" FHD (1920x1080) IPS 250nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal
+","
+Integrated 45Wh
+","
+IR & HD 720p with Privacy Shutter
+","
+Starting at 1.59 kg (3.49 lbs)
+",129000,Normal
+80,Lenovo,"
+AMD Ryzen™ 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ Graphics
+","
+8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200
+","
+14"" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 57Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.64 kg (3.62 lbs)
+",130000,Budget Notebook
+81,Lenovo,"
+Intel Core i5-1240P, 12C (4P + 8E) / 16T, P-core 1.7 / 4.4GHz, E-core 1.2 / 3.3GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics
+",16GB,15.6,"
+512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",,"
+HD 720p + IR with E-shutter, ToF Sensor
+",1.65kg,135000,"
+Thin and Light Ultrabook
+"
+82,Lenovo,"
+AMD Ryzen 5 PRO 6650U (6C / 12T, 2.9 / 4.5GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ 660M Graphics
+","
+16GB Soldered LPDDR5-6400
+","
+13.3"" WUXGA (1920x1200) IPS 300nits Anti-glare, 72% NTSC
+","
+512GB SSD M.2 2280 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 54.7Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.31 kg (2.88 lbs)
+",138000,Notebook
+83,Lenovo,"
+Intel® Core™ i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics
+","
+2x 8GB SO-DIMM DDR4-3200
+","
+14"" FHD (1920x1080) IPS 250nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 57Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.39 kg (3.06 lbs)
+",139000,Normal
+84,Lenovo,"
+AMD Ryzen 5 PRO 6650U (6C / 12T, 2.9 / 4.5GHz, 3MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ 660M Graphics
+",12GB,"
+14"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2280 PCIe 4.0x4 NVMe Opal 2.0
+","
+Integrated 57Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.23 kg (2.71 lbs)
+",144000,Notebook
+85,Lenovo,"
+Intel® Core™ i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+",Integrated Intel® Iris® Xe Graphics,12GB,15.6,"
+512GB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 60Wh
+","
+FHD 1080p with Privacy Shutter
+",1.65kg,145000,Normal
+86,Lenovo,"
+Intel Core i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics
+","
+16GB Soldered LPDDR4x-4266
+","
+16"" WUXGA (1920x1200) IPS 300nits Glossy, Glass, Touch
+","
+1TB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 52.5Wh
+","
+FHD 1080p with Privacy Shutter
+","
+Around 2.1 kg (4.63 lbs)
+",148000,"
+2-in-1 Convertible Laptop
+"
+87,Lenovo,"
+AMD Ryzen 7 5800H (8C / 16T, 3.2 / 4.4GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3050 Ti 4GB GDDR6, Boost Clock 1485 / 1695MHz, TGP 95W
+",12GB,"
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 165Hz, Dolby Vision, FreeSync, G-SYNC
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 60Wh
+","
+HD 720p with E-shutter
+","
+Around 2.4 kg (5.3 lbs)
+",149000,Normal
+88,Lenovo,"
+Intel® Core™ i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics
+",12GB,"
+13.3"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 46Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.26 kg (2.78 lbs)
+",149000,Normal
+89,Lenovo,"
+Intel® Core™ i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics
+",12GB,"
+14"" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 57Wh
+","
+HD 720p with Privacy Shutter
+","
+Starting at 1.59 kg (3.51 lbs)
+",149000,Normal
+90,Lenovo,"
+Intel Core i7-1260P, 12C (4P + 8E) / 16T, P-core 2.1 / 4.7GHz, E-core 1.5 / 3.4GHz, 18MB
+","
+Integrated Intel Iris Xe Graphics
+",12GB,15.6,"
+1TB SSD M.2 2242 PCIe 4.0x4 NVMe
+",,"
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+",1.65kg,149000,"
+Thin and Light Ultrabook
+"
+91,Lenovo,"
+Intel® Core™ i5-1240P, 12C (4P + 8E) / 16T, P-core 1.7 / 4.4GHz, E-core 1.2 / 3.3GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics Functions as UHD Graphics
+",12GB,"
+14"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2280 PCIe® 4.0x4 Performance NVMe® Opal 2.0
+","
+Integrated 52.5Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+",1.65kg,149500,Normal
+92,Lenovo,"
+Intel Core i7-1165G7 (4C / 8T, 2.8 / 4.7GHz, 12MB)
+","
+Integrated Intel Iris Xe Graphics functions as UHD Graphics
+","
+1x 16GB SO-DIMM DDR4-3200
+","
+14"" FHD (1920x1080) IPS 250nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal
+","
+Integrated 45Wh
+","
+IR & HD 720p with Privacy Shutter
+","
+Starting at 1.59 kg (3.49 lbs)
+",155000,Normal
+93,Lenovo,"
+AMD Ryzen™ 7 6800HS Creator Edition (8C / 16T, 3.2 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ 680M Graphics
+",12GB,"
+14"" 2.8K (2880x1800) IPS 400nits Anti-glare, 100% sRGB, 90Hz, Eyesafe®, Dolby® Vision™
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 61Wh
+","
+FHD 1080p + IR, ToF Sensor
+","
+Around 1.34 kg (2.95 lbs)
+",155000,Normal
+94,Lenovo,"
+AMD Ryzen™ 7 6800HS Creator Edition (8C / 16T, 3.2 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA® GeForce RTX™ 3050 Ti 4GB GDDR6
+",12GB,"
+16"" 2.5K (2560x1600) IPS 350nits Anti-glare, 100% sRGB, TÜV Low Blue Light
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 75Wh
+","
+FHD 1080p + IR, ToF Sensor
+","
+Around 1.95 kg (4.30 lbs)
+",159000,Normal
+95,Lenovo,"
+Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+","
+NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1642MH, TGP 105W
+","
+1x 16GB SO-DIMM DDR4-3200
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 165Hz
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 60Wh
+","
+HD 720p with Privacy Shutter
+","
+Around 2.315 kg (5.1 lbs)
+",159500,"
+Gaming Laptop
+"
+96,Lenovo,"
+AMD Ryzen 7 6800H (8C / 16T, 3.2 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3050 Ti 4GB GDDR6, Boost Clock 1695MHz, TGP 95W
+","
+2x 8GB SO-DIMM DDR5-4800
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 165Hz, 100% sRGB, Dolby Vision, FreeSync, G-SYNC, DC dimmer
+","
+512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 80Wh
+","
+FHD 1080p with E-camera Shutter
+","
+Around 2.35 kg (5.18 lbs)
+",163000,Normal
+97,Lenovo,"
+AMD Ryzen™ 7 PRO 6850U (8C / 16T, 2.7 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ 680M Graphics
+",12GB,"
+14"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2280 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 52.5Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.498 kg (3.30 lbs)
+",169000,Notebook
+98,Lenovo,"
+Intel® Core™ i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+","
+Integrated Intel® Iris® Xe Graphics
+",12GB,"
+13.3"" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 46Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+","
+Starting at 1.26 kg (2.78 lbs)
+",169000,Normal
+99,Lenovo,"
+Intel Core i7-1255U, 10C (2P +8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
+","
+Integrated Intel Iris Xe Graphics
+","
+2x 8GB SO-DIMM DDR4-3200
+","
+14"" FHD (1920x1080) IPS 250nits Anti-glare
+","
+512GB SSD M.2 2242 PCIe 4.0x4 NVMe Opal2
+","
+Integrated 57Wh
+","
+IR & FHD 1080p with Privacy Shutter
+","
+Starting at 1.39 kg (3.06 lbs)
+",170000,Normal
+100,Lenovo,"
+AMD Ryzen 7 5800H (8C / 16T, 3.2 / 4.4GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1425 / 1702MHz, TGP 130W
+",12GB,"
+16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 165Hz, 100% sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer
+","
+1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 80Wh
+","
+720p with E-camera Shutter
+","
+2.45 kg (5.4 lbs)
+",182000,Normal
+101,Lenovo,"
+Intel® Core™ i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+","
+NVIDIA® GeForce MX550 2GB GDDR6
+",12GB,"
+14"" 2.8K (2880x1800) OLED 400nits Glossy, 100% DCI-P3, 90Hz, DisplayHDR™ True Black 500, Eyesafe®, Panda King Glass, Dolby® Vision™
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 61Wh
+","
+FHD 1080p + IR, ToF Sensor
+","
+Around 1.40 kg (3.09 lbs)
+",182000,Normal
+102,Lenovo,"
+AMD Ryzen 7 6800H (8C / 16T, 3.2 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3060  6GB GDDR6
+","
+2x 8GB SO-DIMM DDR5-4800
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 165Hz, 100% sRGB, Dolby Vision, FreeSync, G-SYNC, DC dimmer
+","
+2TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 80Wh
+","
+FHD 1080p with E-camera Shutter
+","
+Around 2.35 kg (5.18 lbs)
+",185000,Normal
+103,Lenovo,"
+AMD Ryzen™ 7 7840HS (8C / 16T, 3.8 / 5.1GHz, 8MB L2 / 16MB L3)
+","
+NVIDIA® GeForce RTX™ 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W
+",12GB,15.6,"
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®
+","
+Integrated 60Wh
+","
+FHD 1080p with E-shutter
+",1.65kg,185000,Normal
+104,Lenovo,"
+12th Generation Intel® Core™ i7-12700H Processor (E-cores up to 3.50 GHz P-cores up to 4.70 GHz) 14 Core (6 P-core + 8 E-core) 20 Threads, 18MB Cache
+","
+NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1425 / 1702MHz, TGP 130W
+","
+2x 8GB SO-DIMM DDR5-4800
+","
+15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 165Hz, 100% sRGB, Dolby Vision, FreeSync, G-SYNC, DC dimmer
+","
+512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 80Wh
+","
+FHD 1080p with E-camera Shutter
+","
+Around 2.35 kg (5.18 lbs)
+",189000,Normal
+105,Lenovo,"
+Intel Core i7-13700H, 14C (6P + 8E) / 20T, P-core up to 5.0GHz, E-core up to 3.7GHz, 24MB
+","
+Integrated Intel Iris Xe Graphics
+",12GB,"
+14.5"" 2.5K (2560x1600) IPS 350nits Anti-glare, 100% sRGB, 90Hz, Eyesafe, Dolby Vision
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 73Wh
+","
+FHD 1080p + IR with E-shutter, ToF Sensor
+","
+Starting at 1.49 kg (3.28 lbs)
+",192000,Normal
+106,Lenovo,"
+Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+","
+Intel Arc A370M 4GB GDDR6
+","
+16GB Soldered LPDDR5-4800
+","
+16"" 2.5K (2560x1600) IPS 400nits Glossy, 100% sRGB, Dolby Vision, TÜV Low Blue Light, Touch
+","
+1TB SSD M.2 2242 PCIe 4.0x4 NVMe
+","
+Integrated 99.99Wh
+","
+FHD 1080p + IR with Privacy Shutter
+","
+Around 2.16 kg (4.76 lbs)
+",195000,"
+2-in-1 Convertible Laptop
+"
+107,Lenovo,"
+Intel Core i7-1165G7 (4C / 8T, 2.8 / 4.7GHz, 12MB)
+","
+NVIDIA Quadro T500 4GB GDDR6
+",12GB,"
+14"" FHD (1920x1080) IPS 300nits Anti-glare
+","
+512GB SSD M.2 2280 PCIe x4 NVMe Opal2
+","
+Integrated 50Wh
+","
+IR & 720p with Privacy Shutter
+","
+1.469 kg (3.24 lbs)
+",195000,"
+Workstation Laptop
+"
+108,Lenovo,"
+AMD Ryzen™ 7 PRO 6850U (8C / 16T, 2.7 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+Integrated AMD Radeon™ 680M Graphics
+",12GB,"
+13.3"" WUXGA (1920x1200) IPS 400nits Anti-glare, 100% sRGB, Low Power
+","
+512GB SSD M.2 2242 PCIe® 4.0x4 NVMe® Opal 2.0
+","
+Integrated 51.5Wh
+","
+FHD 1080p + IR Hybrid with E-shutter
+","
+Starting at 1.19 kg (2.63 lbs)
+",199000,Normal
+109,Lenovo,"
+AMD Ryzen 7 5800H (8C / 16T, 3.2 / 4.4GHz, 4MB L2 / 16MB L3)
+","
+NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1560 / 1620MHz, TGP 140W
+",12GB,"
+16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 165Hz, 100% sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer
+","
+512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+","
+Integrated 80Wh
+","
+720p with E-camera Shutter
+","
+2.45 kg (5.4 lbs)
+",217000,"
+Powerful Gaming Laptop
+"
+110,Lenovo,"
+AMD Ryzen 7 PRO 6850H (8C / 16T, 3.2 / 4.7GHz, 4MB L2 / 16MB L3)
+","
+AMD Radeon RX 6500M 4GB GDDR6
+",12GB,15.6,"
+512GB SSD M.2 2280 PCIe 4.0x4 Performance NVMe Opal 2.0
+","
+Integrated 72Wh
+","
+FHD 1080p + IR Hybrid with E-shutter
+",1.65kg,219000,"
+Thin and Light Ultrabook
+"
+111,Lenovo,"
+Intel® Core™ i7-1280P, 14C (6P + 8E) / 20T, P-core 1.8 / 4.8GHz, E-core 1.3 / 3.6GHz, 24MB
+","
+Integrated Intel® Iris® Xe Graphics
+",12GB,"
+14"" 2.8K (2880x1800) OLED 400nits Glossy, 100% DCI-P3, 90Hz, DisplayHDR™ 500, Dolby® Vision™, Glass, Touch
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 75Wh
+","
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+","
+Starting at 1.4 kg (3.09 lbs)
+",220000,Normal
+112,Lenovo,"
+Intel® Core™ i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+","
+NVIDIA® GeForce RTX™ 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",12GB,"
+16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, DisplayHDR™ 400, Dolby® Vision™, G-SYNC®, Low Blue Light, High Gaming Performance
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 99.99Wh
+","
+FHD 1080p with E-shutter
+","
+Less than 2.23 kg (4.9 lbs)
+",225000,Normal
+113,Lenovo,"
+Intel® Core™ i7-1360P, 12C (4P + 8E) / 16T, P-core up to 5.0GHz, E-core up to 3.7GHz, 18MB
+","
+Integrated Intel® Iris® Xe Graphics
+",12GB,"
+14"" 2.8K (2880x1800) OLED 400nits Glossy, 100% DCI-P3, 90Hz, DisplayHDR™ 500, Dolby® Vision™, Eyesafe®, Glass, Touch
+","
+1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®
+","
+Integrated 75Wh
+","
+FHD 1080p + IR with Privacy Shutter, ToF Sensor
+","
+Starting at 1.4 kg (3.09 lbs)
+",230000,Normal
+114,Lenovo,"
+Intel® Core™ i7-1360P, 12C (4P + 8E) / 16T, P-core 2.2 / 5.0GHz, E-core 1.6 / 3.7GHz, 18MB
+",Integrated Intel® Iris® Xe Graphics,12GB,15.6,"
+512GB SSD M.2 2280 PCIe® 4.0x4 Performance NVMe® Opal 2.0
+","
+Integrated 52.5Wh
+","
+FHD 1080p + IR Hybrid with Privacy Shutter
+",1.65kg,239000,Normal
+115,Lenovo,"
+Intel Core i7-13700H, 14C (6P + 8E) / 20T, P-core 2.4 / 5.0GHz, E-core 1.8 / 3.7GHz, 24MB
+","
+NVIDIA GeForce RTX 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W
+",12GB,"
+16"" 3.2K (3200x2000) IPS 430nits Anti-glare, 100% DCI-P3, 165Hz, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 99.9Wh
+","
+FHD 1080p with E-shutter
+","
+Around 2 kg (4.4 lbs)
+",245000,"
+Gaming Laptop
+"
+116,Lenovo,"
+Intel Core i7-11800H (8C / 16T, 2.3 / 4.6GHz, 24MB)
+","
+NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1560 / 1620MHz, TGP 140W
+","
+2x 16GB SO-DIMM DDR4-3200
+","
+16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 80Wh
+","
+HD 720p with E-shutter
+","
+Starting at 2.3 kg (5.07 lbs)
+",258000,"
+Gaming Laptop
+"
+117,Lenovo,"
+Intel Core i9-13900HX, 24C (8P + 16E) / 32T, P-core 2.2 / 5.4GHz, E-core 1.6 / 3.9GHz, 36MB
+","
+NVIDIA GeForce RTX 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 140W
+",12GB,"
+16"" WQXGA (2560 x 1600 pixels) IPS 300nits Anti-glare, 100% sRGB, 165Hz, Dolby Vision, G-SYNC, Low Blue Light
+","
+1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+","
+Integrated 80Wh
+","
+FHD 1080p with E-shutter
+","
+Less than 2.55 kg (5.6 lbs)
+",265000,"
+Gaming Laptop
+"
+118,Asus,"Intel Celeron N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores)",Intel UHD Graphics 600,4GB RAM,"
+14.0-inch IPS display; HD (1366 x 768 pixels) resolution; 16:9 aspect ratio; Anti-glare display, LED Backlit, 200nits, NTSC: 45%,Screen-to-body ratio: 78%
+",256GB PCIe Gen3 x2 SSD,"
+
+42WHrs, 3S1P, 3-cell Li-ion
+
+",720p,"
+
+
+
+1.3 Kg
+
+
+
+",40000,Normal
+119,Asus,"Intel Celeron N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores)",Intel UHD Graphics 600,"4GB DDR4, 2400 MHz; Expandable up to 8GB","15.6-inch IPS display, HD (1366 x 768 pixels) resolution; 16:9 aspect ratio, Anti-glare display, LED Backlit, 200nits, NTSC: 45%",256GB,"42WHrs, 3S1P, 3-cell Li-ion",VGA cameraWithout privacy shutter,1.63 kg,40000,Normal
+120,Asus,"Intel Core i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)",Intel UHD Graphics,4GB DDR4 onboard Can Be upgraded ,"
+14.0-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 16:9 aspect ratio, Anti-glare display, LED Backlit, 250nits brightness, NTSC: 45%
+",256Gb SSD HDD Can Be Added,2 -Cell 37 Wh Polymer Battery,720p,"
+
+
+
+1.6 Kg
+
+
+
+",56000,Normal
+121,Asus,"Intel Core i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)","Intel® Iris Xe Graphics,","4GB DDR4 on board, Memory Max Up to:16GB","
+15.6-inch, FHD (1920 x 1080) 16:9, IPS-level Panel, Anti-glare display, LED Backlit, 250nits, NTSC: 45%, Screen-to-body ratio: 83 %
+",256GB SSD,"37WHrs, 2S1P, 2-cell Li-ion",720p,1.8 kg ,60000,Normal
+122,Asus,"AMD Ryzen™ 3 7320U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.1 GHz max boost)",AMD Radeon™ Graphics,4GB LPDDR5 on board,"
+14-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82%
+",256GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.38 Kg
+
+
+
+",61000,Normal
+123,Asus,"Intel Core i3-1215U Processor 1.2 GHz (10M Cache, up to 4.4 GHz, 6 cores)",Intel UHD Graphics,"4GB DDR4 on board, Total system memory upgradeable to:12GB","
+14-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 16:9 aspect ratio, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82 %
+",256GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",68000,Normal
+124,Asus,"Intel® Core™ i3-N305 Processor 1.8 GHz (6MB Cache, up to 3.8 GHz, 8 cores, 8 Threads)",Intel® UHD Graphics,8GB LPDDR4 on board,"
+14.0-inch, FHD (1920 x 1080) 16:9 aspect ratio, LED Backlit, 60Hz refresh rate, 250nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen, (Screen-to-body ratio)83%
+",256GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.38 Kg
+
+
+
+",69000,Normal
+125,Asus,"Intel Core i3-1215U Processor 1.2 GHz (10M Cache, up to 4.4 GHz, 6 cores)",Intel UHD Graphics,"4GB DDR4 on board, Total system memory upgradeable to:12GB","
+15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, TÜV Rheinland-certified, Screen-to-body ratio: 82 ％
+",256GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.7 Kg
+
+
+
+",71000,Normal
+126,Asus,"AMD Ryzen™ 5 7520U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.3 GHz max boost)",AMD Radeon™ Graphics,8GB LPDDR5 on board,"
+14-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82%
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.38 Kg
+
+
+
+",76000,Normal
+127,Asus,"AMD Ryzen 5 5600H Mobile Processor (6-core/12-thread, 19MB cache, up to 4.2 GHz max boost)",AMD Radeon Graphics,"8GB DDR4 onboard, 8GB DDR4 SO-DIMM, Memory Max Up to 16GB","
+16.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, 60Hz refresh rate, 300nits, NTSC: 45%, Anti-glare display, (Screen-to-body ratio)86%
+",512GB M.2 NVMe PCIe 3.0 SSD,"50WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.88 Kg
+
+
+
+",82000,Normal
+128,Asus,"Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)",Intel Iris Xᵉ Graphics (available for Intel® Core™ i5/i7 with dual channel memory),"8GB DDR4 on board, Memory Max Up to:16GB","
+14.0-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 16:9 aspect ratio, Anti-glare display, LED Backlit, 250nits brightness, NTSC: 45%
+",512Gb SSD HDD Can Be Added,2 -Cell 37 Wh Polymer Battery,720p,"
+
+
+
+1.6 Kg
+
+
+
+",83000,Normal
+129,Asus,"Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)","Intel® Iris Xe Graphics,","8GB DDR4 on board, Memory Max Up to:16GB","
+15.6-inch, FHD (1920 x 1080) 16:9, IPS-level Panel, Anti-glare display, LED Backlit, 250nits, NTSC: 45%, Screen-to-body ratio: 83 %
+",256GB SSD,"37WHrs, 2S1P, 2-cell Li-ion",720p,1.8 kg ,89000,Normal
+130,Asus,"Intel Core i5-1235U Processor 1.3 GHz (10M Cache, up to 4.4 GHz, 10 cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14.0-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82 ％
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",91000,Normal
+131,Asus,"Intel Core i5-1235U Processor 1.3 GHz (10M Cache, up to 4.4 GHz, 10 cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14.0-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82 %
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",93000,Normal
+132,Asus,"AMD Ryzen 7 5800H/HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost)",AMD Radeon Graphics,"8GB DDR4 onboard, 8GB DDR4 SO-DIMM, Memory Max Up to 16GB","
+16.0-inch display, WUXGA (1920 x 1200 pixels) resolution, 16:10 aspect ratio, 60Hz refresh rate, 300nits, NTSC: 45%, Anti-glare display, (Screen-to-body ratio) 86%
+",1TB M.2 NVMe PCIe 3.0 SSD,"50WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.88 Kg
+
+
+
+",93000,Normal
+133,Asus,"Intel® Core™ i5-1335U Processor 1.3 GHz (12MB Cache, up to 4.6 GHz, 10 cores, 12 Threads)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14.0-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82 ％
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",93000,Normal
+134,Asus,"
+
+
+
+
+Intel Core i5 1135G7 Processor
+
+
+
+
+",Integrated Intel IRIS Xe Graphics,8GB DDR4 3200MHz SDRAM Onboard memory,"
+15.6-inch (16:9) LED-backlit Full-HD (1920 x 1080 pixels) 60Hz Anti-Glare Panel with 45% NTSC
+",512GB PCIe Gen3 x2 SSD M.2,"
+3 -Cell 42 Wh Battery
+",720p,"
+
+
+
+1.7 Kg
+
+
+
+",95000,Normal
+135,Asus,"Intel Core i5-1235U Processor 1.3 GHz (10M Cache, up to 4.4 GHz, 10 cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, TÜV Rheinland-certified, Screen-to-body ratio: 82 ％
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.7 Kg
+
+
+
+",95000,Normal
+136,Asus,"
+
+
+
+
+Intel Core i5 1135G7 Processor
+
+
+
+
+",NVIDIA GeForce MX350 2GB,8GB DDR4 3200MHz SDRAM Onboard memory,"
+15.6-inch (16:9) LED-backlit Full-HD (1920 x 1080 pixels) 60Hz Anti-Glare Panel with 45% NTSC
+",512GB PCIe Gen3 x2 SSD M.2,"
+3 -Cell 42 Wh Battery
+",720p,"
+
+
+
+1.7 Kg
+
+
+
+",99000,Normal
+137,Asus,"
+AMD Ryzen™ 7 7730U Mobile Processor (8-core/16-thread, 16MB cache, up to 4.5 GHz max boost)
+","
+
+
+
+
+
+
+
+
+AMD Radeon™ Graphics
+
+
+
+
+
+
+
+
+","
+
+
+8GB DDR4 onboard , Can be expandable upto 24GB
+
+
+","
+
+
+
+
+
+
+
+
+14.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 300nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen, (Screen-to-body ratio)86%
+
+
+
+
+
+
+
+
+","
+512 GB M.2 NVMe™ SSD
+","
+42WHrs, 3S1P, 3-cell Li-ion
+","
+720p HD cameraWith privacy shutter
+","
+1.6 KG
+",102000,Normal
+138,Asus,"Intel Core i7-1255U Processor 1.7 GHz (12M Cache, up to 4.7 GHz, 10 cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82%
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",107000,Normal
+139,Asus,"Intel Core i7-1255U Processor 1.7 GHz (12M Cache, up to 4.7 GHz, 10 cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, TÜV Rheinland-certified, Screen-to-body ratio: 82 ％
+",512GB SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.7 Kg
+
+
+
+",107000,Normal
+140,Asus,"11th Gen, Intel Core i5-11400H Processor 2.7 GHz (12M Cache, up to 4.5 GHz, 6 Cores)","NVIDIA GeForce RTX™ 2050 Laptop GPU, Up to 1625MHz at 55W (TGP 70W with Dynamic Boost) *Vary by scenario","8GB DDR4-3200, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, Value IPS-level, Anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, Optimus",512GB SSD,"48WHrs, 4S1P, 3-cell Li-ion",720p,2.3 KG,110000,Gaming
+141,Asus,"AMD Ryzen 5 5600H Mobile Processor (6-core/12-thread, 19MB cache, up to 4.2 GHz max boost)",AMD Radeon Graphics,"8GB DDR4 on board, 8GB DDR4 SO-DIMM, Total system memory upgradeable to:16GB","
+15.6-inch, FHD (1920 x 1080) OLED 16:9 aspect ratio, 0.2ms response time, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, SGS Eye Care Display, Screen-to-body ratio: 86 ％
+",512GB SSD,"70WHrs, 3S1P, 3-cell Li-ion",720p FHD cameraWith privacy shutter,"
+
+
+
+1.70 Kg
+
+
+
+",113000,Normal
+142,Asus,"Intel Core i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",Intel Iris Xᵉ Graphics,"8GB DDR4 on board, 8GB DDR4 SO-DIMM, Total system memory upgradeable to:16GB","
+15.6-inch, Full-HD (1920 x 1080) OLED 16:9 aspect ratio, 0.2ms response time, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, SGS Eye Care Display, Screen-to-body ratio: 86 ％
+",512GB SSD,"70WHrs, 3S1P, 3-cell Li-ion",720p FHD cameraWith privacy shutter,"
+
+
+
+1.70 Kg
+
+
+
+",113000,Normal
+143,Asus,"AMD Ryzen™ 5 5600H Mobile Processor (6-core/12-thread, 19MB cache, up to 4.2 GHz max boost)",AMD Radeon™ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, 300nits, 45% NTSC color gamut for non-OLED, Glossy display, TÜV Rheinland-certified, Touch screen, With stylus support, Screen-to-body ratio: 85 ％
+",512GB SSD,"50WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",114000,Normal
+144,Asus,10th Gen Intel Core i5-10300H Processor,"NVIDIA GeForce GTX 1650, with 4GB GDDR6 VRAM","8GB DDR4 2933MHz SDRAM,","15.6"" (16:9) LED-backlit FHD (1920x1080) 144Hz Anti-Glare IPS-level Panel with Adaptive Sync",512GB SSD,48 Wh lithium-polymer battery Battery,720p,2.3 KG,115000,Gaming
+145,Asus,"Intel Core i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)",Intel Iris Xe Graphics,"8GB LPDDR4X on board, Memory Max Up to: 8GB","
+14-inch IPS display; Touch Screen Panel; Full-HD (1920 x 1080 pixels) resolution; Stylus Support; 16:9 aspect ratio; Glossy display, LED Backlit, NTSC: 45%, Screen-to-body ratio: 82％
+",512GB M.2 NVMe PCIe 3.0 SSD,"42WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",115000,Normal
+146,Asus,"11th Gen Intel Core i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)","NVIDIA GeForce MX330, 2GB GDDR5, Intel Iris Plus Graphics, ",8GB DDR4 onboard Can Be upgraded ,"
+15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 16:9 aspect ratio; Anti-glare display, LED Backlit, 250nits brightness; NTSC: 45%, Screen-to-body ratio: 83 %
+",512GB SSD,2 -Cell 32 Wh Polymer Battery,720p,"
+
+
+
+1.8 Kg
+
+
+
+",121000,Normal
+147,Asus,"AMD Ryzen 5 7530U Mobile Processor (6-core/12-thread, 16MB cache, up to 4.3 GHz max boost)",AMD Radeon Graphics,"8GB LPDDR4X on board, Total system memory upgradeable to:16GB","
+
+14.0-inch OLED display, WQXGA display, 16:10 aspect ratio, 0.2ms response time, VESA CERTIFIED Display, Glossy display, Screen-to-body ratio: 90 ％
+
+",512GB M.2 NVMe™ PCIe® 3.0 SSD,"75WHrs, 2S2P, 4-cell Li-ion",1080p FHD cameraWith privacy shutter,"
+
+
+
+1.39Kg
+
+
+
+",122000,Normal
+148,Asus,"
+Intel® Core™ i7-13700H Processor 2.4 GHz (24MB Cache, up to 5.0 GHz, 14 cores, 20 Threads)
+","
+
+
+
+
+
+
+
+
+ Intel Iris Xᵉ Graphics
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR4 onboard
+
+
+","
+
+
+
+
+
+
+
+14.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 300nits, 45% NTSC color gamut, Anti-glare display, TÜV Rheinland-certified, Non-touch screen, (Screen-to-body ratio)85%
+
+
+
+
+
+
+
+","
+512 GB M.2 NVMe™ SSD
+","
+50WHrs, 3S1P, 3-cell Li-ion
+","
+720p HD cameraWith privacy shutter
+","
+1.4 KG
+",125000,Normal
+149,Asus,"AMD Ryzen™ 7 5700U Mobile Processor (8-core/16-thread, 12MB cache, up to 4.3 GHz max boost)",AMD Radeon™ Graphics,"16GB (8GB onboard + 8GB SO-DIMM) DDR4 3200MHz RAM, ","Touch screen, 14.0-inch, LCD, FHD (1920 x 1080) 16:9, IPS-level Panel, Glossy display, LED Backlit, 250nits, NTSC: 45%, Screen-to-body ratio: 82 %, With stylus support",512GB SSD,3 -Cell 42 Wh Polymer BatteryUp to 10 hours of video playbackUp to 9 hours of web browsing,720p,NB:1.5 kg with battery,132000,Normal
+150,Asus,"
+
+
+Intel® Core™ i5-1240P Processor 1.7 GHz (12M Cache, up to 4.4 GHz, 4P+8E cores)
+
+
+",Intel® Iris Xe Graphics,"16GB LPDDR5 on board, Total system memory upgradeable to:16GB","
+
+14.0-inch, WQXGA (2560 x 1600) 16:10 aspect ratio, IPS-level Panel, LED Backlit, 400nits, 100% sRGB color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 90 ％
+
+",512GB M.2 NVMe™ PCIe® 4.0 Performance SSD,"
+
+
+75WHrs, 2S2P, 4-cell Li-ion
+
+
+",1080p FHD camera,"
+
+
+
+1.39 Kg
+
+
+
+",134000,Normal
+151,Asus,AMD Ryzen 7 4800H Processor,NVIDIA GeForce RTX 3050 with 4GB GDDR6 VRAM,16GB DDR4 3200MHz SDRAM,"15.6"" (16:9) LED-backlit FHD (1920x1080) 144Hz Anti-Glare IPS-level Panel with Adaptive Sync",512GB SSD,90 Wh lithium-polymer battery Battery,720p,2.3 KG,135000,Gaming
+152,Asus,"AMD Ryzen 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)","NVIDIA® GeForce RTX™ 2050 Laptop GPU, Up to 1625MHz at 55W (TGP 70W with Dynamic Boost) *Vary by scenario, 4GB GDDR6","8GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",512gb SSD,"56WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,136000,Gaming
+153,Asus,AMD Ryzen™ 7 5800H Mobile Processor ,AMD Radeon™ Graphics,"8GB DDR4 on board, Total system memory upgradeable to:16GB","
+14.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, 300nits, 45% NTSC color gamut for non-OLED, Glossy display, TÜV Rheinland-certified, Touch screen, With stylus support, Screen-to-body ratio: 85 ％
+",512GB SSD,"50WHrs, 3S1P, 3-cell Li-ion",720p,"
+
+
+
+1.5 Kg
+
+
+
+",138000,Normal
+154,Asus,"12th Gen Intel® Core™ i5-12450H Processor 2 GHz (12M Cache, up to 4.4 GHz, 8 cores: 4 P-cores and 4 E-cores)","NVIDIA® GeForce RTX™ 3050 Laptop GPU1550MHz* at 75W (1500MHz Boost Clock+50MHz OC, 60W+15W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",512GB SSD,"76WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,140000,Gaming
+155,Asus,AMD Ryzen 7 4800H Processor,NVIDIA GeForce GTX 1660Ti with 6GB GDDR6 VRAM,8GB DDR4 3200MHz SDRAM,"15.6"" (16:9) LED-backlit FHD (1920x1080) 144Hz Anti-Glare IPS-level Panel with Adaptive Sync",512GB SSD,90 Wh lithium-polymer battery Battery,720p,2.3 KG,143000,Gaming
+156,Asus,"AMD Ryzen™ 7 7730U Mobile Processor (8-core/16-thread, 16MB cache, up to 4.5 GHz max boost)",AMD Radeon Graphics,"16GB LPDDR4X on board, Total system memory upgradeable to:16GB","
+
+14.0-inch WQXGA display, 16:10 aspect ratio, 0.2ms response time, VESA CERTIFIED Display, Glossy display, Screen-to-body ratio: 90 ％
+
+",1TB M.2 NVMe™ PCIe® 3.0 SSD,"75WHrs, 2S2P, 4-cell Li-ion",1080p FHD cameraWith privacy shutter,"
+
+
+
+1.39Kg
+
+
+
+",144000,Normal
+157,Asus,"Intel Core i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",Intel Iris Plus Graphics,"16GB LPDDR4X on board, Memory ","
+
+
+14” Full HD (1920 x 1080 pixels),
+16:9 aspect, anti-glare screen, 300nits brightness display
+Four-sided frameless NanoEdge design with 90% screen-to-body ratio
+2.5mm-thin side bezel and 10.9mm bottom bezel1
+IPS-level wide-view technology
+
+
+
+",512GB PCIe Gen3 SSD,"
+
+67 Wh Polymer Battery 22 Hours battery life 
+
+",3D IR HD Camera,"
+
+
+
+1.13Kg
+
+
+
+",145000,Normal
+158,Asus,"12th Gen Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)","NVIDIA GeForce RTX 3060 Laptop GPU1752MHz* at 140W (1702MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)","8GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","NVIDIA® GeForce RTX™ 3050 Laptop GPU, 1790MHz* at 95W (1740MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost), 4GB GDDR6",512GB SSD,"56WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,145000,Gaming
+159,Asus,"Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)","NVIDIA GeForce RTX 3050 Laptop GPU,4GB GDDR6",16GB DDR4 3200 MHz SDRAM (8GB On-Board); Max 32GB,"15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate with Adaptive Sync; 16:9 aspect ratio; sRGB: 62.5%, Adobe: 47.34%, Pantone Validated: N/A",512GB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,148000,Gaming
+160,Asus,"Intel Core i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 6P+8E cores)",Intel Iris Xe Graphics,"8GB DDR4 on board, 8GB DDR4 SO-DIMM, Total system memory upgradeable to:16GB","
+14.0-inch, WUXGA (1920 x 1200 pixels) 16:10 aspect ratio, IPS-level Panel, LED Backlit, 300nits, 45% NTSC color gamut for non-OLED, Glossy display, TÜV Rheinland-certified, Touch screen, With stylus support, Screen-to-body ratio: 85 ％
+",512GB M.2 NVMe™ PCIe® 4.0 SSD,"50WHrs, 3S1P, 3-cell Li-ion",1080p FHD cameraWith privacy shutter,"
+
+
+
+1.5 Kg
+
+
+
+",156000,Normal
+161,Asus,"12th Gen Intel Core i5-12450H Processor 2 GHz (12M Cache, up to 4.4 GHz, 8 cores: 4 P-cores and 4 E-cores)","NVIDIA GeForce RTX 3070 Laptop GPU1340MHz at 105W (1290MHz Boost Clock+50MHz OC, 80W+25W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",1TB SSD,"76WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,159900,Gaming
+162,Asus,"12th Gen Intel® Core™ i7-12650H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 10 cores: 6 P-cores and 4 E-cores)","NVIDIA® GeForce RTX™ 3050 Laptop GPU1550MHz* at 75W (1500MHz Boost Clock+50MHz OC, 60W+15W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",512GB SSD,"76WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,166000,Gaming
+163,Asus,"
+
+
+Intel® Core™ i7-1260P Processor 2.1 GHz (18M Cache, up to 4.7 GHz, 4P+8E cores)
+
+
+",Intel® Iris Xe Graphics,"16GB LPDDR5 on board, Total system memory upgradeable to:16GB","
+
+14.0-inch, 2.8K (2880 x 1800) OLED 16:10 aspect ratio, 0.2ms response time, 90Hz refresh rate, 400nits, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Non-touch screen, (Screen-to-body ratio)90%
+
+",1TB M.2 NVMe™ PCIe® 4.0 Performance SSD,"
+
+
+75WHrs, 2S2P, 4-cell Li-ion
+
+
+",1080p FHD camera,"
+
+
+
+1.39 Kg
+
+
+
+",168000,Normal
+164,Asus,"Intel Core i5-11400H Processor 2.7 GHz (12M Cache, up to 4.5 GHz, 6 Cores)","NVIDIA GeForce RTX 3060 Laptop GPU, Up to 1630MHz at 90W (95W with Dynamic Boost), 6GB GDDR6",8GB DDR4 3200 MHz SDRAM (8GB On-Board); Max 32GB,"15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate with Adaptive Sync; 16:9 aspect ratio; sRGB: 100%%, Adobe: 47.34%, Pantone Validated: N/A",512GB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,170000,Gaming
+165,Asus,"Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)","NVIDIA GeForce RTX 3050ti Laptop GPU,4GB GDDR6",16GB DDR4 3200 MHz SDRAM (8GB On-Board); Max 32GB,"15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate with Adaptive Sync; 16:9 aspect ratio; sRGB: 100%%, Adobe: 47.34%, Pantone Validated: N/A",512GB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,172000,Gaming
+166,Asus,"AMD Ryzen™ 7 7735HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 4.7 GHz max boost)","NVIDIA® GeForce RTX™ 4050 Laptop GPU, 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost), 6GB GDDR6","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, Value IPS-level, Anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:144Hz, G-Sync, MUX Switch + NVIDIA® Advanced Optimus",512GB PCIe 4.0 NVMe M.2 SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,176000,Gaming
+167,Asus,"
+
+
+Intel® Core™ i7-1360P Processor 2.2 GHz (18MB Cache, up to 5.0 GHz, 12 cores, 16 Threads)
+
+
+",Intel® Iris Xe Graphics,"16GB LPDDR5 on board, Total system memory upgradeable to:16GB","
+
+14.0-inch, 3K (2880 x 1800) OLED 16:10 aspect ratio, 0.2ms response time, 90Hz refresh rate, 400nits, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Non-touch screen, (Screen-to-body ratio)90%
+
+",1TB M.2 NVMe™ PCIe® 4.0 Performance SSD,"
+
+
+75WHrs, 2S2P, 4-cell Li-ion
+
+
+",1080p FHD camera,"
+
+
+
+1.39 Kg
+
+
+
+",180000,Normal
+168,Asus,"
+AMD Ryzen 7 5800H Processor 3.2 GHz (16M Cache, up to 4.4 GHz)
+","
+NVIDIA GeForce RTX 3050 4GB GDDR6 VRAM
+","
+16GB DDR4 
+","
+15.6-inch IPS display, Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate; 16:9 aspect ratio
+","
+512GB SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2.3 KG
+",183000,Normal
+169,Asus,"
+AMD Ryzen 7 5800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost)
+","
+
+
+
+
+
+
+
+
+NVIDIA GeForce RTX 3050 Laptop GPU
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR4 onboard
+
+
+","
+
+
+
+
+
+
+
+14-inch OLED display; WQXGA+ (2880 x 1800 pixels) resolution; 16:10 aspect ratio; Glossy display; DCI-P3:100%; Refresh Rate:90Hz; Response Time:3ms
+
+
+
+
+
+
+
+","
+1TB SSD
+","
+3-cell Li-ion, 63WHrs
+","
+FHD 1080P@60FPS external camera
+","
+2.3 KG
+",194000,Normal
+170,Asus,"
+Intel Core i7-13700H Processor 2.4 GHz (24MB Cache, up to 5.0 GHz, 14 cores, 20 Threads)
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA GeForce RTX 3050 6GB Laptop GPU6GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+16GB DDR5-4800 
+
+
+
+
+8GB DDR5 on board8GB DDR5 SO-DIMMTotal system memory upgradeable to:24GB*Dual-channel memory support requires at least one SO-DIMM module.
+
+
+
+
+
+
+
+
+","
+15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 144Hz refresh rate, 250nits, 100% sRGB color gamut, PANTONE Validated, Anti-glare display, TÜV Rheinland-certified, Non-touch screen, (Screen-to-body ratio)84%
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+70WHrs, 3S1P, 3-cell Li-ion
+",720p,"
+1.8 KG
+",195000,Normal
+171,Asus,"
+AMD Ryzen 7 5800H Processor 3.2 GHz (16M Cache, up to 4.4 GHz)
+","
+NVIDIA GeForce RTX 3050Ti 4GB GDDR6 VRAM
+","
+16GB DDR4 
+","
+15.6-inch IPS display, Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate; 16:9 aspect ratio
+","
+512GB SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2.3 KG
+",197000,Normal
+172,Asus,"AMD Ryzen™ 7 6800H Mobile Processor (8-core/16-thread, 16MB cache, up to 4.7 GHz max boost)","AMD Radeon™ Graphics, NVIDIA® GeForce® RTX™ 3050 Laptop GPU, 4GB GDDR6","16GB LPDDR5 on board, Total system memory upgradeable to:16GB","
+14.0-inch, 2.8K (2880 x 1800) OLED 16:10 aspect ratio, 90Hz refresh rate, 400nits, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Screen-to-body ratio: 84 %
+",1TB M.2 NVMe™ PCIe® 4.0 SSD,"63WHrs, 3S1P, 3-cell Li-ion",720p FHD cameraWith privacy shutter,"
+
+
+
+1.45 Kg
+
+
+
+",200000,Normal
+173,Asus,"AMD Ryzen 9 7940HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)","NVIDIA GeForce RTX 4050 Laptop GPU, 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost), 6GB GDDR6","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, Value IPS-level, Anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:144Hz, G-Sync, MUX Switch + NVIDIA Advanced Optimus",1TB PCIe 4.0 NVMe M.2 SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,204000,Gaming
+174,Asus,"
+
+
+Intel Core i7-1355U Processor 1.7 GHz (12MB Cache, up to 5.0 GHz, 10 cores, 12 Threads)
+
+
+",Intel Iris Xe Graphics,16GB LPDDR5 on board,"
+
+13.3-inch, 2.8K (2880 x 1800) OLED 16:10 aspect ratio, 0.2ms response time, 60Hz refresh rate, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Non-touch screen, (Screen-to-body ratio)85%
+
+",1TB M.2 NVMe PCIe 4.0 SSD,"63WHrs, 2S2P, 4-cell Li-ion","
+FHD camera with IR function to support Windows Hello
+","
+
+
+
+1.0Kg
+
+
+
+",204000,Normal
+175,Asus,"AMD Ryzen 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)","NVIDIA GeForce RTX 3060 Laptop GPU1752MHz* at 140W (1702MHz Boost Clock+50MHz OC,115W+25W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",1TB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,204900,Gaming
+176,Asus,"
+
+
+Intel Core i7-1360P Processor 2.2 GHz (18MB Cache, up to 5.0 GHz, 12 cores, 16 Threads)
+
+
+",Intel Iris Xe Graphics,16GB LPDDR5 on board,"
+
+14.0-inch, 2.8K (2880 x 1800) OLED 16:10 aspect ratio, 0.2ms response time, 90Hz refresh rate, 400nits, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Touch screen, (Screen-to-body ratio)87%, With stylus support
+
+",1TB M.2 NVMe™ PCIe® 4.0 SSD,"75WHrs, 2S2P, 4-cell Li-ion","
+FHD camera with IR function to support Windows Hello
+","
+
+
+
+1.5Kg
+
+
+
+",208000,Normal
+177,Asus,"
+
+
+Intel Core i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 6P+8E cores)
+
+
+",Intel Iris Xᵉ Graphics (available for Intel® Core™ i5/i7/i9 with dual channel memory)Intel® Iris Xe Graphics,"16GB LPDDR5 on board, Total system memory upgradeable to:16GB","
+
+14.0-inch, 2.8K (2880 x 1800) 16:10 aspect ratio, 0.2ms response time, 90Hz refresh rate, 400nits, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, SGS Eye Care Display, Touch screen, With stylus support, Screen-to-body ratio: 90 %
+
+",1TB M.2 NVMe PCIe 4.0 Performance SSD,"
+
+
+63WHrs, 3S1P, 3-cell Li-ion
+
+
+",720p HD cameraWith privacy shutter,"
+
+
+
+1.3 Kg
+
+
+
+",214000,Normal
+178,Asus,"
+
+
+
+Intel® Core™ i7-11370H Processor 3.3 GHz (12M Cache, up to 4.8 GHz, 4 cores)
+
+
+
+","
+
+Intel® Iris Xe Graphics, NVIDIA® GeForce® GTX 1650 Max Q, 4GB GDDR6
+
+","16GB DDR4 on board, Total system memory:16GB","
+15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 300nits, 100% sRGB color gamut, PANTONE Validated, Glossy display, Touch screen, With stylus support, Screen-to-body ratio: 90 ％
+",1TB M.2 NVMe™ PCIe® 3.0 SSD,"
+96WHrs, 3S2P, 6-cell Li-ion
+",HD camera with IR function to support Windows Hello,"
+
+
+
+1.9Kg
+
+
+
+",216000,Normal
+179,Asus,"Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)","Intel® Iris Xe Graphics,NVIDIA® GeForce® MX450,2GB GDDR6",16GB LPDDR4X on board,"
+Touch screen,14.0-inch,FHD (1920 x 1080) 16:9,IPS-level Panel,Anti-glare display,LED Backlit,400nits,sRGB: 100%,Pantone Validated,Screen-to-body ratio: 93 %,With stylus support
+",1TB M.2 NVMe™ PCIe® 3.0 SSD,"70WHrs, 4-cell Li-ion",HD IR Camera,1.65kg,220000,Normal
+180,Asus,"12th Gen Intel® Core™ i7-12650H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 10 cores: 6 P-cores and 4 E-cores)","NVIDIA® GeForce RTX™ 3070 Laptop GPU1340MHz* at 105W (1290MHz Boost Clock+50MHz OC, 80W+25W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.34%, Refresh Rate:144Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",1TB SSD,"76WHrs, 4S1P, 4-cell Li-ion",720p,2.3 KG,220000,Gaming
+181,Asus,"
+
+
+Intel® Core™ i7-1260P Processor 2.1 GHz (18M Cache, up to 4.7 GHz, 4P+8E cores)
+
+
+",NVIDIA® GeForce® MX5502GB GDDR6,16GB LPDDR5 on board,"
+
+14.0-inch, 4K (3840 x 2400) OLED 16:10 aspect ratio, 0.2ms response time, 60Hz refresh rate, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, SGS Eye Care Display, Touch screen, (Screen-to-body ratio)92%, With stylus support
+
+",1TB M.2 NVMe PCIe 4.0 SSD,"63WHrs, 2S2P, 4-cell Li-ion","
+720p HD cameraWith privacy shutter
+","
+
+
+
+1.4Kg
+
+
+
+",225000,Normal
+182,Asus,"
+AMD Ryzen 9 5900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.6 GHz max boost)
+","
+
+
+
+
+
+
+
+
+NVIDIA GeForce RTX 3050 Ti Laptop GPU With ROG Boost up to 1585MHz at 60W (75W with Dynamic Boost) 4GB GDDR6 VRAM
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR4 onboard
+
+
+
+
+16GB DDR4-3200 SO-DIMM
+
+
+
+
+Max Capacity : 48GB
+
+
+","
+
+
+
+
+
+15.6-inch IPS display
+
+
+
+
+FHD (1920x 1080) resolution; 16:9 aspect ratio
+
+
+
+
+anti-glare display
+
+
+
+
+DCI-P3:100%
+
+
+
+
+Refresh Rate:144Hz
+
+
+
+
+Response Time:3ms
+
+
+
+
+IPS-level
+
+
+
+
+FreeSync
+
+
+
+
+Pantone Validated
+
+
+
+
+Optimus
+
+
+
+
+
+","
+1TB SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+","
+FHD 1080P@60FPS external camera
+","
+2.3 KG
+",227000,Normal
+183,Asus,"AMD Ryzen 9 7940HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)","NVIDIA® GeForce RTX™ 4060 Laptop GPU, 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost), 8GB GDDR6","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, FHD (1920 x 1080) 16:9, Value IPS-level, Anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:144Hz, G-Sync, MUX Switch + NVIDIA® Advanced Optimus",1TB PCIe 4.0 NVMe M.2 SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,227000,Gaming
+184,Asus,"12th Gen Intel® Core™ i7-12700H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 14 cores: 6 P-cores and 8 E-cores)","NVIDIA® GeForce RTX™ 3060 Laptop GPU1752MHz* at 140W (1702MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","15.6-inch, WQHD (2560 x 1440)) 16:9, anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:165Hz, IPS-level, Adaptive-Sync, MUX Switch + Optimus",1TB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,229900,Gaming
+185,Asus,"13th Gen Intel® Core™ i7-13700H Processor 2.4 GHz (24M Cache, up to 5 GHz, 14 cores: 6 P-cores and 8 E-cores)","
+
+
+
+NVIDIA® GeForce RTX™ 4060 Laptop GPU, 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost), 8GB GDDR6
+
+
+
+
+","16GB DDR5-4800, SO-DIMM x 2 slot, Max Capacity: 32GB","
+
+
+
+15.6-inch, FHD (1920 x 1080) 16:9, Value IPS-level, Anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:144Hz, G-Sync, MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+",1TB SSD,"90WHrs, 4S1P, 4-cell Li-ion",720p,2.2 KG,230900,Gaming
+186,Asus,"
+AMD Ryzen 9 5900HS Mobile Processor (8-core/16-thread 20MB cache, up to 4.6 GHz max boost)
+","
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA GeForce RTX 3050 Ti Laptop GPU
+
+
+
+
+With ROG Boost up to 1135MHz at 35W (40W with Dynamic Boost)
+
+
+
+
+4GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+16GB LPDDR4X on board
+
+
+","
+
+
+
+
+
+
+
+
+13.4-inch
+
+
+
+
+WQUXGA (3840 x 2400) 16:10
+
+
+
+
+glossy display
+
+
+
+
+sRGB:116%
+
+
+
+
+Adobe:86%
+
+
+
+
+DCI-P3:85%
+
+
+
+
+Touch Screen
+
+
+
+
+Refresh Rate:120Hz
+
+
+
+
+IPS-level
+
+
+
+
+Adaptive-Sync
+
+
+
+
+Pantone Validated
+
+
+
+
+Optimus
+
+
+
+
+
+
+
+
+","
+1TB M.2 2230 NVMe™ PCIe® 3.0 SSD
+","
+62WHrs, 4S1P, 4-cell Li-ion
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC, 50/60Hz universal
+","
+720P
+","
+1.3 KG
+",238000,Normal
+187,Asus,"
+AMD Ryzen™ 7 5800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost)
+","
+
+
+
+
+
+
+
+
+AMD Radeon™ Graphics, NVIDIA® GeForce® RTX™ 3050 Ti Laptop GPU, Boost up to 1035MHz at 35W (50W with Dynamic Boost)NVIDIA Max-Q technology for peak performance and efficiency, 4GB GDDR6
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR4 onboard
+
+
+","
+
+
+
+
+
+
+
+16.0-inch, 4K (3840 x 2400) OLED 16:10 aspect ratio, 0.2ms response time, 550nits peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, SGS Eye Care Display, Screen-to-body ratio: 86 ％
+
+
+
+
+
+
+
+","
+1TB SSD
+","
+96WHrs, 3S2P, 6-cell Li-ion
+","
+FHD 1080P@60FPS external camera
+","
+1.95 KG
+",238000,Normal
+188,Asus,"
+Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)
+","
+
+
+NVIDIA® GeForce RTX™ 3050 Ti Laptop GPU
+
+
+
+
+With ROG Boost up to 1585MHz at 60W (75W with Dynamic Boost)
+
+
+
+
+4GB GDDR6
+
+
+","
+16GB (8GB DDR4 onboard + 8GB DDR4-3200 SO-DIMM)Max Capacity: 40GB
+","
+16-inch IPS display; WQXGA (2560 x 1600 pixels) resolution; 144Hz refresh rate; 3ms response time; 16:10 aspect ratio; anti-glare display; DCI-P3: 100%; Pantone Validated: Yes
+","
+ 
+512GB M.2 NVMe PCIe 4.0 SSD
+","
+90WHrs, 4S1P, 4-cell Li-ion
+","
+ 720P HD camera
+","
+ 1.90 Kg (4.19 lbs)
+",242000,Normal
+189,Asus,"
+13th Gen Intel® Core™ i7-13620H Processor 2.4 GHz (24M Cache, up to 4.9 GHz, 10 cores: 6 P-cores and 4 E-cores)
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA® GeForce RTX™ 4060 Laptop GPU
+
+
+
+
+ROG Boost: 2300MHz* at 120W (2250MHz Boost Clock+50MHz OC, 100W+20W Dynamic Boost)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+16GB DDR4 on board
+
+
+
+
+16GB DDR4-3200 SO-DIMM
+
+
+
+
+Max Capacity:48GB
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+16-inch
+
+
+
+
+FHD+ 16:10 (1920 x 1200, WUXGA)
+
+
+
+
+Value IPS-level
+
+
+
+
+Anti-glare display
+
+
+
+
+sRGB:100%
+
+
+
+
+Refresh Rate:165Hz
+
+
+
+
+G-Sync
+
+
+
+
+MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+Support Dolby Vision HDR :Yes
+
+
+
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2 KG
+",261000,Normal
+190,Asus,"
+13th Gen Intel Core™ i7-13650HX Processor 2.6 GHz (24M Cache, up to 4.9 GHz, 14 cores: 6 P-cores and 8 E-cores)
+","
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA GeForce RTX™ 4060 Laptop GPU
+
+
+
+
+ROG Boost: 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR5-4800 SO-DIMM x 2
+
+
+
+
+Max Capacity:32GB
+
+
+
+
+Support dual channel memory
+
+
+","
+
+
+
+
+
+16-inch
+
+
+
+
+FHD+ 16:10 (1920 x 1200, WUXGA)
+
+
+
+
+IPS-level
+
+
+
+
+Anti-glare display
+
+
+
+
+sRGB:100%
+
+
+
+
+Refresh Rate:165Hz
+
+
+
+
+Response Time:7ms
+
+
+
+
+G-Sync
+
+
+
+
+MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+Support Dolby Vision HDR :Yes
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2.5 KG
+",263000,Normal
+191,Asus,"
+
+
+AMD Ryzen 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+
+",AMD Radeon RX 6700SROG Boost: up to 100W(SmartShift)8GB GDDR6,8GB DDR5 on board8GB DDR5-4800 SO-DIMMMax Capacity: 24GB,"
+
+ROG Nebula Display14-inchWQXGA (2560 x 1600) 16:10anti-glare displayDCI-P3:100%Refresh Rate: 120HzResponse Time: 3msIPS-levelAdaptive-SyncPantone ValidatedMUX SwitchDolby vision
+
+",1TB M.2 NVMe™ PCIe® 4.0 Performance SSD,"
+
+
+76WHrs, 4S1P, 4-cell Li-ion
+
+
+",720P HD IR Camera for Windows Hello,"
+
+
+
+1.72 Kg
+
+
+
+",264900,Normal
+192,Asus,"
+Intel® Core™ i7-11800H Processor 2.3 GHz (24M Cache, up to 4.6 GHz, 8 Cores)
+","
+NVIDIA GeForce RTX 3060 Laptop GPUWith ROG Boost up to 1525MHz at 80W (95W with Dynamic Boost)6GB GDDR6 VRAM
+","
+16GB (8GB DDR4 onboard + 8GB DDR4-3200 SO-DIMM)Max Capacity: 40GB
+","
+16-inch IPS display; WQXGA (2560 x 1600 pixels) resolution; 144Hz refresh rate; 3ms response time; 16:10 aspect ratio; anti-glare display; DCI-P3: 100%; Pantone Validated: Yes
+","
+ 
+1TB M.2 NVMe PCIe 4.0 SSD
+","
+90WHrs, 4S1P, 4-cell Li-ion
+","
+ 720P HD camera
+","
+ 1.90 Kg (4.19 lbs)
+",272000,Normal
+193,Asus,"
+
+
+Intel® Core™ i9-12900H Processor 2.5 GHz (24M Cache, up to 5.0 GHz, 6P+8E cores)
+
+
+",Intel Iris Xᵉ Graphics (available for Intel® Core™ i5/i7/i9 with dual channel memory)Intel® Iris Xe Graphics,"32GB LPDDR5 on board, Total system memory upgradeable to:32GB","
+
+14.0-inch, 2.8K (2880 x 1800) 16:10 aspect ratio, 0.2ms response time, 90Hz refresh rate, 400nits, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, SGS Eye Care Display, Touch screen, With stylus support, Screen-to-body ratio: 90 %
+
+",1TB M.2 NVMe PCIe 4.0 Performance SSD,"
+
+
+63WHrs, 3S1P, 3-cell Li-ion
+
+
+",720p HD cameraWith privacy shutter,"
+
+
+
+1.3 Kg
+
+
+
+",272000,Normal
+194,Asus,"
+Intel® Core™ i9-13900H Processor 2.6 GHz (24MB Cache, up to 5.4 GHz, 14 cores, 20 Threads)
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA® GeForce RTX™ 4070 Laptop GPU
+
+
+
+
+ROG Boost: 2030MHz* at 140W (1980MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost, 115W+25W in Manual Mode)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+16GB DDR5-4800 
+
+
+
+
+8GB DDR5 on board8GB DDR5 SO-DIMMTotal system memory upgradeable to:24GB*Dual-channel memory support requires at least one SO-DIMM module.
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+16.0-inch, 3.2K (3200 x 2000) OLED 16:10 aspect ratio, 0.2ms response time, 120Hz refresh rate, 400nits, 600nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, TÜV Rheinland-certified, Non-touch screen, (Screen-to-body ratio)87%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+96WHrs, 3S2P, 6-cell Li-ion
+",720p,"
+1.9 KG
+",272000,Normal
+195,Asus,"
+13th Gen Intel Core i9-13980HX Processor 2.2 GHz (36M Cache, up to 5.6 GHz, 24 cores: 8 P-cores and 16 E-cores)
+","
+
+
+
+
+
+
+
+
+NVIDIA® GeForce RTX™ 4070 Laptop GPU
+
+
+
+
+ROG Boost: 2225MHz* at 140W (2175MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR5-4800 SO-DIMM x 2
+
+
+
+
+Max Capacity:32GB
+
+
+
+
+Support dual channel memory
+
+
+","
+
+
+
+
+
+16-inch
+
+
+
+
+FHD+ 16:10 (1920 x 1200, WUXGA)
+
+
+
+
+IPS-level
+
+
+
+
+Anti-glare display
+
+
+
+
+sRGB:100%
+
+
+
+
+Refresh Rate:165Hz
+
+
+
+
+Response Time:7ms
+
+
+
+
+G-Sync
+
+
+
+
+MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+Support Dolby Vision HDR :Yes
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2.5 KG
+",316000,Normal
+196,Asus,"
+13th Gen Intel® Core™ i9-13980HX Processor 2.2 GHz (36M Cache, up to 5.6 GHz, 24 cores: 8 P-cores and 16 E-cores)
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA® GeForce RTX™ 4070 Laptop GPU
+
+
+
+
+ROG Boost: 2225MHz* at 140W (2175MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+16GB DDR5-4800 SO-DIMM x 2
+
+
+
+
+Max Capacity:32GB
+
+
+
+
+Support dual channel memory
+
+
+","
+
+
+
+
+
+18-inch
+
+
+
+
+FHD+ 16:10 (1920 x 1200, WUXGA)
+
+
+
+
+IPS-level
+
+
+
+
+Anti-glare display
+
+
+
+
+sRGB:100%
+
+
+
+
+Refresh Rate:165Hz
+
+
+
+
+Response Time:7ms
+
+
+
+
+G-Sync
+
+
+
+
+MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+Support Dolby Vision HDR :Yes
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+3 KG
+",318000,Normal
+197,Asus,"
+AMD Ryzen 7 5800H Processor 3.2GHz (16M Cache, up to 4.4 GHz)
+","
+NVIDIA GeForce RTX 3060 Laptop GPU
+With ROG Boost up to 1802MHz at 115W (130W with Dynamic Boost)
+6GB GDDR6
+","
+16GB DDR4 onboard RAM
+Max Capacity: 32GB
+","
+15.6-inch FHD anti-glare display, sRGB:100%, Adobe:75.35%, Pantone Validated, Refresh Rate:300Hz, Response Time:3ms, IPS-level, FreeSync
+","
+512GB M.2 NVMe PCIe 3.0
+","
+90WHrs, 4S1P, 4-cell Li-ion
+",720p,"
+2.48KG
+",340000,Normal
+198,Asus,"AMD Ryzen 9 5900HX Processor 3.3 GHz (16M Cache, up to 4.6 GHz)","
+
+
+
+NVIDIA GeForce RTX 3070 GPU; 8GB GDDR6 VRAM With ROG Boost
+
+
+
+","
+16GB DDR4 3200MHz SDRAM
+","
+
+
+
+
+
+15.6-inch, FHD (1920 x 1080 pixels) 16:9, anti-glare display, sRGB:100.00%, Adobe:75.35%, Refresh Rate:300Hz, Response Time:3ms, IPS-level, Adaptive-Sync
+
+
+
+
+
+",1TB M.2 NVMe PCIe 3.0 ,"90 Whr, lithium-polymer battery Battery",720p,2.3 KG,361000,Normal
+199,Asus,"
+13th Gen Intel® Core™ i9-13900H Processor 2.6 GHz (24M Cache, up to 5.4 GHz, 14 cores: 6 P-cores and 8 E-cores)
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA® GeForce RTX™ 4070 Laptop GPU
+
+
+
+
+ROG Boost: 2030MHz* at 140W (1980MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost, 115W+25W in Manual Mode)
+
+
+
+
+8GB GDDR6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+32GB DDR5-4800 
+
+
+
+
+Max Capacity:64GB
+
+
+
+
+Support dual channel memory
+
+
+
+
+
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+ROG Nebula Display
+
+
+
+
+16-inch
+
+
+
+
+QHD+ 16:10 (2560 x 1600, WQXGA)
+
+
+
+
+IPS-level
+
+
+
+
+Anti-glare display
+
+
+
+
+DCI-P3:100%
+
+
+
+
+Refresh Rate:240Hz
+
+
+
+
+Response Time:3ms
+
+
+
+
+G-Sync
+
+
+
+
+Pantone Validated
+
+
+
+
+MUX Switch + NVIDIA® Advanced Optimus
+
+
+
+
+Support Dolby Vision HDR :Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+","
+4-cell Li-ion, 90WHrs, 4S1P
+",720p,"
+2.1 KG
+",372000,Normal
+200,Asus,"
+AMD Ryzen™ 9 5980HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.8 GHz max boost)
+","
+NVIDIA GeForce RTX 3060 Laptop GPU
+With ROG Boost up to 1802MHz at 115W (130W with Dynamic Boost)
+6GB GDDR6
+","
+16GB DDR4 onboard RAM
+Max Capacity: 32GB
+","
+15.6-inch IPS display; 4K UHD (3840 x 2160 pixels) resolution; 16:9 aspect ratio; 120Hz refresh rate with FreeSync; 3ms response time; Pantone Validated; sRGB: 132.7%; Adobe: 100%
+","
+1TB M.2 NVMe PCIe 3.0
+","
+90WHrs, 4S1P, 4-cell Li-ion
+",720p,"
+2.48KG
+",375000,Normal
+201,Asus,"Intel® Core™ i9-12900H Processor 2.5 GHz (24M Cache, up to 5.0 GHz, 6P+8E cores)",NVIDIA® GeForce® RTX™ 3050 Ti Laptop GPU4GB GDDR6,32GB LPDDR5 on boardTotal system memory upgradeable to:32GB,"
+14.5-inch, 2.8K (2880 x 1800) OLED 16:10 aspect ratio, LED Backlit, 0.2ms response time, 120Hz refresh rate, 550nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, 70% less harmful blue light, SGS Eye Care Display, Touch screen, (Screen-to-body ratio)93%, With stylus support
+",1TB M.2 NVMe™ PCIe® 4.0 Performance SSD,"76WHrs, 4-cell Li-ion",HD IR Camera,1.65kg,388000,Normal
+202,Asus,"AMD Ryzen 9 5900HX Processor 3.3 GHz (16M Cache, up to 4.6 GHz)","
+
+
+
+NVIDIA GeForce RTX 3080 GPU; 8GB GDDR6 VRAM With ROG Boost
+
+
+
+","
+16GB DDR4 3200MHz SDRAM
+","
+
+
+
+
+
+15.6-inch, FHD (1920 x 1080 pixels) 16:9, anti-glare display, sRGB:100.00%, Adobe:75.35%, Refresh Rate:300Hz, Response Time:3ms, IPS-level, Adaptive-Sync
+
+
+
+
+
+",1TB M.2 NVMe PCIe 3.0 ,"90 Whr, lithium-polymer battery Battery",720p,2.3 KG,410000,Normal
+203,Asus,"Intel Core i7-1250U Processor 1.1 GHz (12M Cache, up to 4.7 GHz, 2P+8E cores)",Intel Iris Xe Graphics,16GB LPDDR5 on boardTotal system memory upgradeable to:16GB,"
+17.3-inch, 2560 x 1920 FOLED 4:3 aspect ratio, 0.2ms response time, 60Hz refresh rate, 500nits HDR peak brightness, 100% DCI-P3 color gamut, 1,000,000:1, VESA CERTIFIED Display HDR True Black 500, 1.07 billion colors, PANTONE Validated, Glossy display, 70% less harmful blue light, Touch screen, (Screen-to-body ratio)87%
+",1TB M.2 NVMe PCIe 4.0 Performance SSD,"75WHrs, 4S1P, 4-cell Li-ion",5.0M camera with IR function,1.5KG,555000,Normal
+204,MSI,10th Generation Intel Core i7 10870H processor; Octa-core (8-core) CPU,"NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6Up to 1802MHz Boost Clock, 130W Maximum Graphics Power with Dynamic Boost.",DDR4 16GB 3200Mhz,17.3-inch IPS display; Full-HD (1920 x 1080 Pixels) resolution; 144Hz refresh rate,1TB SSD,Li-Polimer,1080p,2.9 kg,218000,Gaming
+205,MSI,9th Generation Intel® Core™ i7 9750H,GeForce® RTX 2080 with 8GB GDDR5,DDR4 32 GB 2666Mhz,"17.3 FHD (1920x1080), 144Hz, 3ms, Wide-View",512 GB,Li-Polimer,1080p,2.39 kg,219000,Gaming
+206,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,"NVIDIA GeForce RTX 2060 With Max-Q Design, 6GB GDDR6",16GB 3200Mhz Max 64GB Max Capacity,15.6-inch IPS display; Full-HD (1920 x 1080 pixels); 144Hz refresh rate,512GB NVMe PCIe Gen4,Li-Polymer 52Whr,1080p,1.69 kg,219000,Gaming
+207,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,"NVIDIA GeForce GTX 1650Ti With Max-Q Design, 4GB GDDR6 VRAM",16GB 3200Mhz Max 64GB Max Capacity,"15.6 Full-HD (1920 x 1080 pixels), IPS-Level 60Hz 72% NTSC Thin Bezel, close to 100% sRGB",1TB NVMe PCIe Gen4,82 Battery (Whr),1080p,1.65 kg,219000,Gaming
+208,MSI,"Intel® Core™ i7-13620H, 10C (6P + 4E) / 16T / 4.9GHz / 24MB",NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6Boost Clock 105W Maximum Graphics Power with Dynamic Boost. *May vary by scenario,16GB (8GB*2) DDR5 5200MHz,"15.6"" FHD (1920x1080), 144Hz, IPS-Level",1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,3-Cell53.5 Battery (Whr),HD type (30fps@720p),2.25 lbs,220000,Powerful gaming laptop
+209,MSI,10th Generation Intel Core i7 10870H processor; Octa-core (8-core) CPU,"NVIDIA GeForce RTX 3060 Graphics card with 6GB GDDR6 VRAMUp to 1802MHz Boost Clock, 130W Maximum Graphics Power with Dynamic Boost.",DDR4 16GB 3200MHz; Expandable up to 64GB,15.6-inch IPS display; Full-HD (1920 x 1080 Pixels) resolution; 144Hz refresh rate,1TB SSD,Li-Polimer,1080p,2.38 kg,229000,Gaming
+210,MSI,Intel Core i7-10750H 6-Core,"NVIDIA GeForce RTX 2070 Super With Max-Q Design, 8GB GDDR6",32GB DDR4 2666MHz,"15.6"" FHD (1920x1080), 300Hz, IPS-Level",1TB SSD,Li-Polymer 99Whr,1080p,2.1 kg,245000,Gaming
+211,MSI,"Intel Core i7-11800H CPU (Tiger Lake)- 2.3GHz Base Clock, 4.6GHz Max Turbo Clock- 24MB Intel Smart Cache, 8 Cores, 16 Threads","NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6Up to 1485MHz Boost Clock, 85W Maximum Graphics Power with Dynamic Boost.*May vary by scenario",DDR4 16 GB 3200Mhz,15.6-inch IPS display; Quad-HD (2560 x 1440 pixels) resolution; 165Hz refresh rate,1TB SSD 2x M.2 SSD slot (NVMe PCIe Gen3),Li-Polimer,1080p,2.1 kg,245000,Gaming Laptop
+212,MSI,"Intel® Core™ i7-13700H, 14C (6P + 8E) / 20T / 5GHz / 24MB",NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6Up to 1605MHz Boost Clock 45W Maximum Graphics Power with Dynamic Boost.,16GB DDR5 4800MHz,"16” QHD+ (2560x1600), 165Hz  100% DCI-P3",1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,4 cell (82Whr) Li-Polymer,IR FHD Type [30fps/1080p],4.19 Lbs,248000,Portable ultrabook for creators
+213,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,"NVIDIA GeForce GTX 1650Ti With Max-Q Design, 4GB GDDR6 VRAM",16GB 3200Mhz Max 64GB Max Capacity,"15.6” 4K UHD 100% Adobe RGB color gamut, Thin Bezel Display",1TB NVMe PCIe Gen4,Li-Polymer 82Whr,1080p,1.65 kg,259000,Gaming
+214,MSI,"Intel® Core™ i7-13700HX, 16C (8P + 8E) / 24T / 5.0GHz / 30MB",NVIDIA® GeForce RTX™ 4070 Laptop GPUUp to 2175MHz Boost Clock 140W Maximum Graphics Power with Dynamic Boost.*May vary by scenario*Full-Power GPU Design,32GB (16GB*2) DDR5 5600MHz,"16"" (2560x1600) QHD+, Wide View Angle 240Hz Thin Bezel, 100% DCI-P3",2TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,4 cell (99.9Whr) Li-Ion,1080p FHD with shutter,5.24 lbs,388000,Powerful gaming laptop
+215,MSI,4000-series AMD Ryzen 5 4500U Processor,AMD Radeon Graphics,8GB DDR4-3200 Memory Type2 Slot Number of SO-DIMM SlotMax 64GB Max Capacity,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution,512GB SSD,4-CellLi-Polymer Battery (Type)52 Battery (Whr),720p,1.6Kg,81000,Ultrabook
+216,MSI,5000-series AMD Ryzen 5 5500U Processor,AMD Radeon Graphics,8GB DDR4-3200 Memory Type2 Slot Number of SO-DIMM SlotMax 64GB Max Capacity,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution,256GB SSD 2x M.2 SSD slot (NVMe PCIe Gen3).,3-CellLi-Polymer Battery (Type)52 Battery (Whr),720p,1.6Kg,85000,Ultrabook
+217,MSI,"Intel® Core™ i5-1235U, 10C (2P + 8E) / 12T / 4.4GHz / 12MB",Intel® Iris® Xe graphics,8GB DDR4 3200MHz,"14"" FHD (1920x1080), IPS-Level",512GB SSD M.2 2280 PCIe® 4.0x4 NVMe®,3-Cell39.3/53.8 Battery (Whr),HD type (30fps@720p),1.4 Kg,92000,Portable Budget Ultrabook
+218,MSI,4000-series AMD Ryzen 7 4700U Processor,AMD Radeon Graphics,8GB DDR4-3200 Memory Type2 Slot Number of SO-DIMM SlotMax 64GB Max Capacity,"14-inch Full-HD (1920 x 1080 pixels), IPS-Level",256 SSD,4-CellLi-Polymer Battery (Type)52 Battery (Whr),720p,1.3Kg,95000,Normal
+219,MSI,9th Generation Intel® Core™ i5-9300H,GeForce® GTX 1650ti  with 4GB GDDR6,"8GB, DDR4, 2666MHz","15.6"" FHD 144Hz (1920x1080), IPS-Level Narrow Bezel",256GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,99000,Normal
+220,MSI,10th Generation Intel Core i5-10300H,GeForce GTX 1650 MAX-Q with 4GB GDDR5 VRAM,"8GB DDR4, 2666MHz","15.6-inch Full-HD (1920 x 1080 pixels), IPS-Level Narrow Bezel",256GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,99000,Normal
+221,MSI,"12th Gen Intel Core i5-12450H 2.50GHz Processor (upto 4.4 GHz, 12MB Cache, 8-Cores, 12-Threads, 4 Performance-cores)",Intel Arc A370M Graphics Laptop GPU 4GB GDDR6,"8GB DDR4, 3200Mhz","15.6-inch Full-HD 144Hz (1920 x 1080 pixels), IPS-Level Narrow Bezel",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,105000,Budget gaming laptop
+222,MSI,"Intel® Core™ i5-1335U, 10C (2P + 8E) / 12T / 4.6GHz / 12MB",Intel® Iris® Xe graphics,8GB DDR4 3200MHz,"15.6"" FHD (1920x1080), IPS-Level",512GB SSD M.2 2280 PCIe® 4.0x4 NVMe®,3-Cell39.3/53.8 Battery (Whr),HD type (30fps@720p),1.7 Kg,105000,Portable Budget Ultrabook
+223,MSI,11th Gen Comet Lake Core i5-1135G7 Processor,Intel® Iris® Xe graphics,8GB 3200Mhz Max 64GB Max Capacity,"15.6-inch IPS display, Full-HD (1920 x 1080 pixels) resolution, 60Hz refresh rate, 72% NTSC Color Gamut (Color coverage close to 100% sRGB), Thin Bezels",512GB NVMe PCIe Gen4,52 Battery (Whr),720p,1.6 kg,115000,Normal
+224,MSI,11th Gen Intel Core I5-1135G7 processor,NVIDIA GeForce MX450 with 2GB GDDR6 VRAM,8GB DDR4-3200MHz Memory Type,"15.6-inch Full-HD (1920 x 1080 pixels), IPS-Level",512GB SSD,3-CellLi-Polymer52,720p,1.6Kg,115000,Normal
+225,MSI,11th Gen Intel Core I5-1135G7,GeForce MX450 with 2GB GDDR5 VRAM,8GB DDR4-3200 Memory Type1 Slot Number of SO-DIMM SlotMax 32GB Max Capacity,"14-inch Full-HD (1920 x 1080 pixels), IPS-Level",512GB SSD,4-CellLi-Polymer Battery (Type)52WHr Battery,720p,1.3Kg,115000,Normal
+226,MSI,Intel Core i5-10500H 6 Core 2.5 - 4.5GHz,NVIDIA GeForce RTX 3050 Ti Laptop GPU 4GB GDDR6,"8GB DDR4, 2666MHz","15.6-inch Full-HD 144Hz (1920 x 1080 pixels), IPS-Level Narrow Bezel",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,120000,Budget gaming laptop
+227,MSI,9th Generation Intel® Core™ i7 9750H,NVIDIA GeForce GTX 1650 with 4GB GDDR5,DDR4 8 GB 2666Mhz,"15.6"" FHD (1920x1080), 120Hz, IPS-Level",512GB SSD,Li-Polimer,720p,2.3 kg,120000,Normal
+228,MSI,AMD Ryzen 7 4800 H-Processor,AMD Radeon RX 5500M with 4GB GDDR6,"8GB DDR4, 3200MHz Memory Type","15.6"" FHD (1920 x 1080 pixels), 144Hz, IPS-Level",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.96Kg,123000,Normal
+229,MSI,10th Generation Intel® Core™ i5-10300H,GeForce® GTX 1660TI  with 6GB GDDR6,"8GB, DDR4, 2666MHz","15.6"" FHD (1920x1080), IPS-Level Narrow Bezel 120Hz",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,125000,Normal
+230,MSI,11th Gen Intel Core I7-1165G7 processor,NVIDIA Geforce MX450 with 2GB GDDR6 VRAM,8GB DDR4-3200 Memory Type,"15.6-inch Full-HD (1920 x 1080 pixels), IPS-Level",512GB SSD,3-CellLi-Polymer52,720p,1.6Kg,125000,Normal
+231,MSI,AMD Ryzen 5 4600H Processor; Hexa-core (6-core) CPU,AMD Radeon RX 5300M with 3GB GDDR6 VRAM,"8GB DDR4, 3200MHz Memory Type",15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.96Kg,128000,Normal
+232,MSI,11th Gen Intel Core I7-1165G7,Geforce MX450 with 2GB GDDR6 VRAM,8GB DDR4-3200 Memory Type1 Slot Number of SO-DIMM SlotMax 32GB Max Capacity,"14-inch Full-HD (1920 x 1080 pixels), IPS-Level; 60Hz refresh rate; 72% NTSC color coverage close to 100% sRGB",512 SSD,4-CellLi-Polymer Battery (Type)52 Battery (Whr),720p,1.3Kg,128000,Normal
+233,MSI,"Intel® Core™ i7-1355U, 10C (2P + 8E) / 12T / 5GHz / 12MB",Intel® Iris® Xe graphics,16GB DDR4 3200MHz,"15.6"" FHD (1920x1080), IPS-Level",512GB SSD M.2 2280 PCIe® 4.0x4 NVMe®,3-Cell39.3/53.8 Battery (Whr),HD type (30fps@720p),1.7 Kg,131000,Portable Budget Ultrabook
+234,MSI,11th Gen Comet Lake Core i5-1135G7 Processor,Intel Iris Xe graphics,DDR4 16GB (3200MHz),"14-inch Full-HD IPS-Level display, 300 Nits brightness, Thin Bezels, 72% NTSC Color Gamut (color coverage close to 100% sRGB)",512GB NVMe PCIe Gen4x4 SSD,Li-Polymer 52Whr,720p,1.2 kg,135000,Normal
+235,MSI,9th Generation Intel® Core™ i7-9750H,GeForce® GTX 1660TI  with 6GB GDDR5,"16GB, DDR4, 2666MHz","15.6"" FHD (1920x1080), IPS-Level Narrow Bezel 120Hz",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,135000,Normal
+236,MSI,10th Generation Intel Core i5 10300H,"NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6Up to 1485MHz Boost Clock, 75W Maximum Graphics Power with Dynamic Boost.",DDR4 16GB 3200MHz; Expandable up to 64GB,15.6-inch IPS display; Full-HD (1920 x 1080 Pixels) resolution; 144Hz refresh rate,512GB SSD,Li-Polimer,720p,1.86 kg,145000,Normal
+237,MSI,11th Gen Comet Lake Core i7-1165G7 Processor,Intel Iris Xe graphics,8GB; 3200MHz; Expandable up to 64GB,"15.6-inch IPS display, Full-HD (1920 x 1080 pixels) resolution, 60Hz refresh rate, 72% NTSC Color Gamut (Color coverage close to 100% sRGB), Thin Bezels",512GB NVMe PCIe Gen4,52 Battery (Whr),720p,1.6 kg,145000,Normal
+238,MSI,10th Generation Intel Core i7-10750H,NVIDIA GTX 1660Ti with 6GB GDDR6 VRAM,8GB DDR4 @ 2666MHz,"15.6"" Full-HD (1920x1080), IPS-Level Narrow Bezel 144Hz refresh rate",512GB SSD,3-CellLi-Polymer Battery (Type)51 Battery (Whr),720p,1.86Kg,145000,Normal
+239,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,Intel Iris Xe graphics,DDR4 16GB (3200MHz),"14-inch IPS display, Full-HD Resolution (1920 x 1080 pixels), 60Hz refresh rate, 300 Nits brightness, Thin Bezel, 72% NTSC Color Gamut (Color coverage close to 100% sRGB)",512GB NVMe PCIe Gen4x4 SSD,Li-Polymer 52Whr,720p,1.2 kg,150000,Normal
+240,MSI,10th Generation Intel Core i7-10750H,NVIDIA GeForce GTX 1660Ti with 6GB GDDR6 VRAM,DDR4 16GB 2666Mhz,"17.3-inch FHD (1920 x 1080 pixels), 144Hz refresh rate, IPS Level",512GB SSD,Li-Polimer,720p,2.6 kg,159000,Normal
+241,MSI,10th Generation Intel Core i7 10750H,"NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6Up to 1485MHz Boost Clock, 75W Maximum Graphics Power with Dynamic Boost.",DDR4 16GB 3200Mhz,"15.6-inch Full-HD (1920 x 1080 Pixels), 144Hz IPS Level",512GB SSD,Li-Polimer,720p,1.86 kg,165000,Normal
+242,MSI,10th Gen Comet Lake Core i7-10710U Processor,"NVIDIA GeForce GTX 1650 With Max-Q Design, 4GB GDDR5",16GB DDR4 - 2 Slots - Max 32GB,15.6-inch Full-HD (1920 x 1080 pixels) IPS level Anti-Glare Wide View Angle Thin Bezel Close to 100% SRGB,512GB SSD,Li-Polymer 82Whr,720p,1.6 kg,168000,Normal
+243,MSI,10th Generation Intel Core i7 10750H,GeForce GTX 1660TI 6GB GDDR6,DDR4 16GB 2666Mhz,"15.6-inch Full-HD (1920 x 1080 Pixels), 144Hz IPS Level",512GB SSD,Li-Polimer,720p,2.3 kg,169000,Normal
+244,MSI,9th Generation Intel® Core™ i7 9750H,GeForce® RTX 2060 with 6GB GDDR5,DDR4 16 GB 2666Mhz,"15.6 FHD (1920x1080), 240hz IPS Level",512x2 1TB SSD,Li-Polimer,720p,2.27 kg,179000,Normal
+245,MSI,Intel Core i7-10750H 6-Core,"NVIDIA GeForce GTX 1660Ti, 6GB GDDR6",16GB DDR4 3200MHz,"15.6-inch Full-HD (1920 x 1080 Pixels), 144Hz, IPS-Level",512GB SSD,Li-Polymer 99Whr,720p,2.1 kg,185000,Normal
+246,MSI,"Intel Core i7-11800H CPU (Tiger Lake)- 2.3GHz Base Clock, 4.6GHz Max Turbo Clock- 24MB Intel Smart Cache, 8 Cores, 16 Threads","NVIDIA GeForce RTX 3060 Laptop GPU 6GB GDDR6Up to 1485MHz Boost Clock, 85W Maximum Graphics Power with Dynamic Boost.*May vary by scenario",DDR4 16GB 3200Mhz,15.6-inch IPS Display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,1TB SSD 2x M.2 SSD slot (NVMe PCIe Gen3),Li-Polimer,720p,2.25 kg,189000,Gaming Laptop
+247,MSI,"Intel® Core™ i7-13620H, 10C (6P + 4E) / 16T / 4.9GHz / 24MB",NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6Up to 2355MHz Boost Clock 105W Maximum Graphics Power with Dynamic Boost. *May vary by scenario,16GB (8GB*2) DDR5 5200MHz,"15.6"" FHD (1920x1080), 144Hz, IPS-Level",1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,3-Cell53.5 Battery (Whr),HD type (30fps@720p),2.25 lbs,205000,Powerful gaming laptop
+248,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,NVIDIA GeForce GTX 1660TI; 6GB GDDR6 VRAM,16GB 3200MHz; 64GB (Max Capacity),15.6-inch IPS display; Full-HD (1920 x 1080 pixels) display; 144Hz refresh rate,512GB NVMe PCIe Gen4,Li-Polymer 52Whr,720p,1.69 kg,210000,Normal
+249,MSI,11th Gen Comet Lake Core i7-1185G7 Processor,"GeForce GTX 1650Ti MAX Q, GDDR6 4GB",DDR4 16GB (3200MHz),"15.6"" FHD IPS-Level 60Hz 72% NTSC color coverage, Thin Bezel, 100% sRGB color gamut",1TB NVMe PCIe Gen4x4 SSD,Li-Polymer 82Whr,720p,1.69 kg,210000,Normal
+250,MSI,"Intel® Core™ i7-1360P, 12C (4P + 8E) / 16T / 5GHz / 18MB",Intel® Iris® Xe graphics,16GB DDR5 4800MHz,"16” FHD+ (1920x1200), 165Hz, IPS-Level Touchscreen",1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,4-Cell82 Battery (Whr),R FHD type (30fps@1080p),2.1 kg,215000,Portable ultrabook for creators
+251,HP,"AMD Ryzen™ 3 5300U (up to 3.8 GHz max boost clock, 4 MB L3 cache, 4 cores, 8 threads)",AMD Radeon™ Graphics,4 GB DDR4-3200 MHz RAM (1 x 4 GB),"35.6 cm (14"") diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",256 GB PCIe® NVMe™ M.2 SSD,"3-cell, 41 Wh Li-ion",HP True Vision 720p HD camera with integrated dual array digital microphones,Starting at 1.47 kg,51000,Normal
+252,HP,"AMD Ryzen 5 5500U (up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores, 12 threads)","AMD Radeon™ Graphics
+Integrated",8GB DDR4-3200 MHz RAM (2 x 4 GB),"15.6"" diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC",256 GB PCIe® NVMe™ M.2 SSD,"3-cell, 41 Wh Li-ion",HP True Vision 720p HD camera with integrated dual array digital microphones,1.69 kg,67000,Normal
+253,HP,"AMD Ryzen 5 5500U (up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores, 12 threads)",AMD Radeon™ Graphics,8 GB DDR4-3200 MHz RAM (1 x 8 GB),"15.6"" diagonal, FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ M.2 SSD,"3-cell, 41 Wh Li-ion",HP True Vision 720p HD camera with integrated dual array digital microphones,Starting at 1.7 kg,71000,Budget Notebook
+254,HP,"AMD Ryzen™ 5 5500U (up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores, 12 threads)",AMD Radeon™ Graphics,8 GB DDR4-3200 MHz RAM (2 x 4 GB),"15.6"" diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ M.2 SSD,"3-cell, 41 Wh Li-ion",HP Wide Vision 720p HD camera with integrated dual array digital microphones,1.75 kg,81900,Normal
+255,HP,"Intel Core i5-1135G7 (up to 4.2 GHz with Intel® Turbo Boost Technology, 8 MB L3 cache, 4 cores)",NVIDIA GeForce MX350 (2GB GDDR5 dedicated),8GB DDR4-3200 MHz RAM (1 x 8 GB),"39.6 cm (15.6"") diagonal FHD display",512 GB PCIe NVMe M.2 SSD,"3-cell, 41 Wh Li-ion",HP True Vision 720p HD camera with integrated dual array digital microphones,Starting at 1.75 kg,85000,Budget Notebook
+256,HP,"AMD Ryzen™ 7 5700U (1.8 GHz base clock, up to 4.3 GHz max boost clock, 8 MB L3 cache, 8 cores, 16 threads)",AMD Radeon™ Graphics,8GB DDR4-3200 SDRAM (2 x 4 GB),15.6-inch IPS display; Full-HD (1920 x 1080 p,512 GB PCIe NVMe TLC M.2 SSD,"3-cell, 43 Wh Li-ion polymer",720p HD,1.75 kg,92000,Normal
+257,HP,"Intel® Core™ i5-1135G7 (up to 4.2 GHz with Intel® Turbo Boost Technology, 8 MB L3 cache, 4 cores)","Intel® Iris® Xᵉ Graphics
+Integrated",8 GB DDR4-3200 SDRAM (2 x 4 GB),"14"" diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",256 GB PCIe® NVMe™ M.2 SSD,"3-cell, 43 Wh Li-ion",HP Wide Vision 720p HD camera with integrated dual array digital microphones,1.41 kg,93000,Budget Ultrabook
+258,HP,10th Generation Intel Core i5-10300H,Nvidia Gtx 1650Ti 4GB,8GB DDR4-3200 SDRAM (1 x 8 GB),15.6-inch IPS display; Full-HD (1920 x 1080 p,512GB SSD,"3-cell, 43 Wh Li-ion polymer",720p HD,4.78Lbs,93000,Budget Gaming Laptop
+259,HP,"AMD Ryzen™ 5 5600H (up to 4.2 GHz max boost clock, 16 MB L3 cache, 6 cores, 12 threads)",AMD Radeon™ RX 5500M 4096MB,8GB DDR4-3200 SDRAM (1 x 8 GB),15.6-inch IPS display; Full-HD (1920 x 1080 p,256GB SSD,"3-cell, 43 Wh Li-ion polymer",720p HD,2.46Kg,95000,Budget Gaming Laptop
+260,HP,"Intel Core i5-11400H (up to 4.5 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 6 cores, 12 threads)",NVIDIA GeForce GTX 1650 Laptop GPU (4 GB GDDR6 dedicated),8 GB DDR4-3200 MHz RAM (1 x 8 GB),"40.9 cm (16.1"") diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.46 kg,99000,Gaming Laptop
+261,HP,"12th Generation Intel Core i5-12450H (up to 4.4 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 8 cores, 12 threads)",NVIDIA GeForce GTX 1650 (4 GB GDDR6 dedicated),8 GB DDR4-3200 MHz RAM (1 x 8 GB),"15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution, 144Hz resolution, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"3-cell, 52 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,2.48 kg,102000,Budget Gaming Laptop
+262,HP,"Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)","Intel Iris Xe Graphics
+Integrated",8GB DDR4-3200 SDRAM,"14-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits, 45% NTSC",512 GB PCIe NVMe TLC M.2 SSD,"3-cell, 43 Wh Li-ion polymer",720p HD,Starting at 1.61Kg,105000,2-in-1 Convertible Laptop
+263,HP,"Intel® Core™ i5-1335U (up to 4.6 GHz, 12 MB L3 cache, 10 cores, 12 threads) + Intel® Iris® Xe Graphics + 8 GB(Onboard)",Intel® Iris® Xe Graphics,8 GB DDR4-3200 MHz RAM (onboard),"14"" diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits",512 GB PCIe® NVMe™ M.2 SSD,"3-cell, 43 Wh Li-ion polymer","HP True Vision 5MP IR camera with camera shutter, temporal noise reduction and integrated dual array digital microphones",3.35 Lbs,110000,2-in-1 Convertible
+264,HP,"12th Generation Intel Core i5-12450H (up to 4.4 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 8 cores, 12 threads)",NVIDIA GeForce RTX 3050 (4 GB GDDR6 dedicated),8 GB DDR4-3200 MHz RAM (1 x 8 GB),"15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"3-cell, 52 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,2.48 kg,115000,Budget Gaming Laptop
+265,HP,"13th Generation Intel Core i5-13420H (up to 4.6 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 8 cores, 12 threads)",NVIDIA® GeForce RTX™ 3050 Laptop GPU (6 GB GDDR6 dedicated),8 GB DDR4-3200 MHz RAM (1 x 8 GB),"15.6"" diagonal, FHD (1920 x 1080), 144 Hz, 9 ms response time, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® Gen4 NVMe™ TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer [23]",HP Wide Vision 720p HD camera with integrated dual array digital microphones,2.28 kg,120000,Budget Gaming Laptop
+266,HP,"Intel® Core™ i7-1250U (up to 4.7 GHz, 12 MB L3 cache, 10 cores, 12 threads) + Intel® Iris® Xe Graphics + 8 GB (Onboard)",Intel Iris Xe Graphics;,8GB DDR4-3200 SDRAM (onboard),15.6-inch IPS display; Full-HD (1920 x 1080 p,512GB SSD,"3-cell, 43 Wh Li-ion polymer",720p HD,Starting at 2.95 lb,135000,2-in-1 Convertible Laptops
+267,HP,"Intel® Core™ i7-11800H (up to 4.6 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 8 cores, 16 threads)","Intel® UHD Graphics
+Discrete
+NVIDIA® GeForce RTX™ 3050Ti Laptop GPU (4 GB GDDR6 dedicated)",16 GB DDR4-3200 MHz RAM (2 x 8 GB),"40.9 cm (16.1"") diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.46 kg,139000,Gaming Laptop
+268,HP,"Intel Core i7-11800H (up to 4.6 GHz with Intel Turbo Boost Technology, 24 MB L3 cache, 8 cores)",NVIDIA GeForce RTX 3050 Ti Laptop GPU (4 GB GDDR6 dedicated),16 GB DDR4-3200 MHz RAM (2 x 8 GB),"16.1-inch IPS display; Full-HD (1920 x 1080 pixels), micro-edge, anti-glare, 300 nits, 100% sRGB",512 GB PCIe NVMe TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.3 kg,143000,Gaming Laptop
+269,HP,"Intel Core i7-12650H (up to 4.7 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 10 cores, 16 threads)",NVIDIA GeForce RTX 3050Ti Laptop GPU (4 GB GDDR6 dedicated),16 GB DDR4-3200 MHz RAM (1 x 16 GB),"15.6-inch IPS display; Full-HD (1920 x 1080 pixels), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,2.48 kg,145000,Normal
+270,HP,"Intel Core i7-11800H (up to 4.6 GHz with Intel Turbo Boost Technology, 24 MB L3 cache, 8 cores, 16 threads)",NVIDIA GeForce RTX 3060 Laptop GPU (6 GB GDDR6 dedicated),16GB DDR4-3200 MHz RAM (2 x 8GB),"16.1-inch IPS display; Full-HD (1920 x 1080 pixels) resolution, 144Hz resolution, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe NVMe TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.46 kg,155000,Gaming Laptop
+271,HP,"AMD Ryzen™ 7 5800H (up to 4.4 GHz max boost clock, 16 MB L3 cache, 8 cores, 16 threads)",AMD Radeon™ Graphics,16 GB DDR4-3200 MHz RAM (2 x 8 GB),"16.1"" diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",512 GB PCIe® NVMe™ TLC M.2 SSD,"4-cell, 70 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.3 kg,155000,Normal
+272,HP,"Intel® Core™ i7-1355U (up to 5.0 GHz, 12 MB L3 cache, 10 cores, 12 threads) + Intel® Iris® Xe Graphics + 16 GB(Onboard)Xe Graphics + 8 GB(Onboard)",Intel® Iris® Xe Graphics,16 GB DDR4-3200 MHz RAM (onboard),"14"" diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits",1TB GB PCIe® NVMe™ M.2 SSD,"3-cell, 43 Wh Li-ion polymer","HP True Vision 5MP IR camera with camera shutter, temporal noise reduction and integrated dual array digital microphones",3.35 Lbs,160000,2-in-1 Convertible
+273,HP,"Intel Core i7-11800H (up to 4.6 GHz with Intel Turbo Boost Technology, 24 MB L3 cache, 8 cores, 16 threads)",NVIDIA GeForce RTX 3060 Laptop GPU (6 GB GDDR6 dedicated),16GB DDR4-3200 MHz RAM (2 x 8 GB),"16.1-inch IPS display, Quad-HD (2560 x 1440 pixels) resolution, 165Hz refresh rate, 3 ms response time, 300 nits brightness, 100% sRGB color gamut (72% NTSC color coverage), anti-glare, Low Blue Light, 40.9 cm diagonal",512 GB PCIe NVMe TLC M.2 SSD,"6-cell, 83 Wh Li-ion polymer",HP Wide Vision 720p HD camera with integrated dual array digital microphones,Starting at 2.3 kg,170000,Gaming Laptop
+274,HP,"Intel® Core™ i7-1355U (up to 5.0 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",integrated: Intel Iris® Xᵉ Graphics,16 GB LPDDR4x-4266 MHz RAM (onboard),15.6-inch IPS display; Full-HD (1920 x 1080 p,512 GB PCIe NVMe TLC M.2 SSD,"3-cell, 43 Wh Li-ion polymer","HP True Vision 5MP IR camera with camera shutter, temporal noise reduction and integrated dual array digital microphones",3.01Lbs,209000,2-in-1 Convertible Laptop
+275,HP,"Intel® Core™ i7-11390H (up to 5.0 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 4 cores, 8 threads)",integrated: Intel® Iris® Xᵉ Graphics,16 GB DDR4-3200 MHz RAM (onboard),15.6-inch IPS display; Full-HD (1920 x 1080 p,512 GB PCIe NVMe TLC M.2 SSD,"3-cell, 43 Wh Li-ion polymer","HP True Vision 5MP IR camera with camera shutter, temporal noise reduction and integrated dual array digital microphones",4.45Lbs,255000,Normal
+276,HP,"Intel Core i7-12700H (up to 4.7 GHz, 24 MB L3 cache, 14 cores, 20 threads) + Intel Iris Xe Graphics + 16 GB(Onboard)",integrated: Intel Iris® Xᵉ Graphics,16 GB DDR4-3200 MHz RAM (onboard),15.6-inch IPS display; Full-HD (1920 x 1080 p,512 GB PCIe NVMe TLC M.2 SSD,"3-cell, 43 Wh Li-ion polymer","HP True Vision 5MP IR camera with camera shutter, temporal noise reduction and integrated dual array digital microphones",4.45Lbs,275000,2-in-1 Convertible Laptop
+277,Acer,Intel Celeron N4020 processor Dual-core 1.10 GHz,Intel UHD Graphics 600,4GB,"15.6"" display with IPS, QHD",128GB SSD Storage,,720p,1.68Kg,45000,Affordable Budget laptop
+278,Acer,AMD Ryzen 3-3250U dual-core processor with Max Turbo upto 3.5Ghz,Intel HD,4GB (Upgradable upto 16GB),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.9Kg,49000,Normal
+279,Acer,"AMD Ryzen™ 3 7320U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.1 GHz max boost)",NVIDIA GeForce RTX,4GB OnBoard DDR5 RAM,"15.6"" display with IPS, QHD",256GB PCIe NVMe Gen3 SSD,,"Acer HD webcam, 1280 x 720 resolution",1.7kg,53000,Budget Notebook
+280,Acer,"Intel Core i3-1115G4 Processor 6M Cache, 3.00 GHz to 4.10 GHz",Intel Iris Xe Graphics G4,4GB (Upgradable up to 16GB),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.7Kg,56000,Budget Notebook
+281,Acer,"Intel® Core™ i5-1035G1 Processor 6M Cache, 1.00 GHz up to 3.60 GHz",Intel HD,4GB (Upgradable upto 16GB),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.9Kg,58000,Normal
+282,Acer,"Intel Core i3-1215U processor (10 MB Smart Cache, 1.2 GHz Performance-core with Intel® Turbo Boost Technology 2.0 up to 4.4 GHz), supporting hybrid core architecture with Performance-core and Efficient core",Intel HD,8GB DDR4 RAM (upgradable to 32 GB using two soDIMM modules),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.65 kg,60000,Affordable budget laptop
+283,Acer,Intel i3 13th gen Processor Core i3-N305 processor,NVIDIA GeForce RTX,4GB OnBoard DDR5 RAM,"15.6"" display with IPS, QHD",256GB PCIe NVMe Gen3 SSD,,"Acer HD webcam, 1280 x 720 resolution",1.4kg,60000,Budget Notebook
+284,Acer,Intel i3 13th gen Processor Core i3-N305 processor,NVIDIA GeForce RTX,8GB OnBoard DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,"Acer HD webcam, 1280 x 720 resolution",1.7kg,66500,Budget Notebook
+285,Acer,"AMD Ryzen™ 5 7520U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.3 GHz max boost)",NVIDIA GeForce RTX,8GB OnBoard DDR5 RAM,"15.6"" display with IPS, QHD",256GB PCIe NVMe Gen3 SSD,,"Acer HD webcam, 1280 x 720 resolution",1.7kg,69000,Budget Notebook
+286,Acer,"AMD Ryzen 7 5700U Quad-core processor (up to 2 MB L2 cache, up to 4 MB L3 cache, 2.6 GHz with Precision Boost up to 3.8 GHz)",AMD Radeon Graphics,8GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.2Kg,70000,Thin and light ultrabook
+287,Acer,"11th Gen Intel Core i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)",Intel Iris Xe,8GB DDR4; Expandable up to 32GB,"15.6"" display with IPS, QHD",256GB NVMe SSD; Dedicated HDD slot for storage expansion,,720p,1.70 Kg (3.75 lb),72000,Notebook
+288,Acer,"AMD Ryzen 5 5500U Hexa-core processor (up to 3 MB L2 cache, up to 8 MB L3 cache, 2.1 GHz with Precision Boost up to 4.0 GHz)",AMD Radeon Graphics,8GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.2Kg,80000,Thin and light ultrabook
+289,Acer,"Intel Core i5-1235U (12 MB Smart Cache, 1.3 GHz up to 4.4 GHz)",IntelIris X Graphics,8GB DDR4 RAM (upgradable to 32 GB using two SODIMM modules),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.65 kg,83000,Affordable budget laptop
+290,Acer,"Intel Core i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)",NVIDIA MX350 2GB Graphic,8GB (Upgradable up to 16GB),"15.6"" display with IPS, QHD",256GB SSD,,720p,1.7Kg,84000,Budget Notebook
+291,Acer,"AMD Ryzen 5 5500U Hexa-core processor (up to 3 MB L2 cache, up to 8 MB L3 cache, 2.1 GHz with Precision Boost up to 4.0 GHz)",AMD Radeon Graphics,8GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.2Kg,85000,Thin and light ultrabook
+292,Acer,"Intel® Core™ i5-1335U processor (Up to 4.6GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,8GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,"Acer HD webcam, 1280 x 720 resolution",3.97Lb,87500,Budget Notebook
+293,Acer,"MD Ryzen 5 5500U hexa-core processor (up to 3 MB L2 cache, up to 8 MB L3 cache, 2.1 GHz with Precision Boost up to 4.0 GHz)",NVIDIA GeForce GTX 1650 4G-GDDR6,16GB DDR4 RAM (upgradable to 32 GB using two SODIMM modules),"15.6"" display with IPS, QHD",256GB SSD,,UFC with T-Type HD camera Compatible with Windows only 1280 x 720 resolution 720p HD video at 30 fps with Temporal Noise Reduction Blue Glass lens,2.1 kg,89000,Affordable budget Gaming laptop
+294,Acer,"Intel® Core™ i5-1335U processor (Up to 4.6GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,8GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,FHD (1920 x 1080) with Blue Glass,3.75Lb,89000,Budget Notebook
+295,Acer,11th GenerationIntel Core i5-1135G7Quad-core (4 Core)CPU Speed 2.40 Ghz up to turbo boost speed 4.20 Ghz,Intel Iris Xe Graphics,8 GB LPDDR4x,"15.6"" display with IPS, QHD",256GB SSD,,HD Webcam (1280 x 720) supporting Super High Dynamic Range (SHDR),2.31 Lbs,90000,Thin and light ultrabook
+296,Acer,"5000-series AMD Ryzen 5 5600H Mobile Processor (6-core / 12-thread, 16MB cache, up to 4.2 GHz max boost)",NVIDIA GeForce GTX 1650 with 4GB GDDR6,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,256GB SSD + 1TB HDD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,95000,Gaming Laptop
+297,Acer,"11th Generation Intel® Core™ i7-1165G7 Processor (12MB Cache, up to 4.7 GHz)",Nvidia Ge-Force MX350 2GB ddr5,8GB DDR4; Expandable up to 32GB,"15.6"" display with IPS, QHD",512GB NVME SSD; Dedicated HDD slot for storage expansion,,720p,1.6 Kg,99000,Notebook
+298,Acer,"11th Gen Intel Core i5-11300H Processor 3.1 GHz, 4 cores (8M Cache, up to 4.4GHz)",NVIDIA GeForce GTX 1650 with 4GB GDDR6 VRAM,8GB DDR4 2933MHz Memory,"15.6"" 144Hz LCD ComfyView In-plane Switching (IPS) Technology Full HD Backlight Technology LED 1920 x 1080 pixels",512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.07Lbs,105000,Normal
+299,Acer,"AMD Ryzen 7 5700U Hexa-core processor (up to 3 MB L2 cache, up to 8 MB L3 cache, 2.1 GHz with Precision Boost up to 4.0 GHz)",AMD Radeon Graphics,8GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.2Kg,105000,Thin and light ultrabook
+300,Acer,"AMD Ryzen 5 5625U (6C / 12T, 2.3 / 4.3GHz, 3MB L2 / 16MB L3)",AMD Radeon Graphics,16GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.25Kg,105000,Thin and light ultrabook
+301,Acer,"11th Gen Intel Core i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",Intel Iris Xe,8GB LPDDR4X RAM,14-inch IPS display; Full-HD (1920 x 1080 Pixels) Resolution; Acer ComfyView LCD Panel,512GB SSD,,720P,1.18Kg,108000,Thin and light ultrabook
+302,Acer,Intel Core i5-10300H 2.50 GHz Turbo up to 4.5GHz,NVIDIA GeForce RTX 2060 with 6GB GDDR6,8GB DDR4 2933MHz Memory,"15.6"" LCD ComfyView In-plane Switching (IPS) Technology Full HD Backlight Technology LED 1920 x 1080 pixels",256Gb SSD +1TB HDD,4-cell Lithium Ion (Li-Ion) 3320 mAh,720p,5.07Lbs,109000,Normal
+303,Acer,"11th Gen Intel Core i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",Intel Iris Xe,8GB LPDDR4X RAM,13.5-inch IPS display; Quad-HD (2256 x 1504 Pixels) Resolution; Acer ComfyView LCD Panel,512GB SSD,,720P,1.2Kg,110000,Thin and light ultrabook
+304,Acer,"Intel® Core™ i7-1355U processor (Up to 5GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,8GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,FHD (1920 x 1080) with Blue Glass,3.75Lb,112000,Budget Notebook
+305,Acer,"AMD Ryzen 5 7530U (6C / 12T, 2.0 / 4.5GHz, 3MB L2 / 16MB L3)",AMD Radeon Graphics,16GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,1080P,1.25Kg,112000,Thin and light ultrabook
+306,Acer,Intel Core i7-10750H 2.60 GHz Turbo up to 5.0GHz,NVIDIA GeForce GTX 1650ti with 4GB GDDR6,8 GB DDR4 2933MHz Memory,"15.6"" 144Hz LCD ComfyView In-plane Switching (IPS) Technology Full HD Backlight Technology LED 1920 x 1080 pixels",512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.07Lbs,113000,Normal
+307,Acer,"Intel Core i5-1335U processor (Up to 4.6GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,8GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,FHD (1920 x 1080) with Blue Glass,4.21Lb,115000,Budget Notebook
+308,Acer,"Intel Core i5-1135G7 Processor - up to 4.2GHz, 4 cores, 8 threads, 8MB Intel Smart Cache",Intel Iris Xe Graphic,8GB LPDDR4x,13.3-inch IPS Multi-touch display; WUXGA (2560 x 1600 pixels) resolution; LED-backlit Display with AES Pen Support; 16:10 Aspect Ratio,256GB SSD,,720p,3.31 Lbs,124000,Normal
+309,Acer,"AMD Ryzen 7 5800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost)",NVIDIA GeForce GTX 1650 with 4GB GDDR6,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,125000,Gaming Laptop
+310,Acer,"AMD Ryzen 5 5600H Mobile Processor (6-core/12-thread, 16MB cache, up to 4.2 GHz max boost)",NVIDIA GeForce RTX 3060 with 6GB GDDR6,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,125000,Gaming Laptop
+311,Acer,Intel Core i7-10750H 2.60 GHz Turbo up to 5.0GHz,NVIDIA GeForce GTX 1660ti with 4GB GDDR6,8 GB DDR4 2933MHz Memory,"15.6"" 144Hz  LCD ComfyView In-plane Switching (IPS) Technology Full HD Backlight Technology LED 1920 x 1080 pixels",512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.07Lbs,125000,Normal
+312,Acer,"AMD Ryzen™ 7 5825U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)",AMD Radeon Graphics,16GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,1.25Kg,125000,Thin and light ultrabook
+313,Acer,"AMD Ryzen 7 7730U (8C / 16T, 2.0 / 4.5GHz, 4MB L2 / 16MB L3)",AMD Radeon Graphics,16GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,1080P,1.25Kg,126000,Thin and light ultrabook
+314,Acer,Intel10th Generation Intel Core i5-10300H 4-Core Processor,NVIDIA GeForce RTX 3060 Graphics with 6GB of dedicated GDDR6 VRAM,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz Refresh Rate; 3ms Overdrive Response Time; 300nit Brightness; 72% NTSC color gamut (Color coverage close to 100% sRGB); Widescreen LED-backlit,512GB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.07lb,129000,Gaming Laptop
+315,Acer,Intel Core i5-10300H 2.50 GHz Turbo up to 4.5GHz,NVIDIA GeForce RTX 3060 with 6GB GDDR6,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,129000,Gaming Laptop
+316,Acer,"Intel® Core™ i7-1355U processor (Up to 5GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,8GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,FHD (1920 x 1080) with Blue Glass,4.21Lb,133000,Budget Notebook
+317,Acer,"Intel Core i7-1065G7 Processor 1.3 GHz (8M Cache, up to 3.9 GHz, 4 cores)",Intel Iris Xe Graphics,8GB LPDDR4 RAM,"15.6"" display with IPS, QHD",512GB M.2 NVMe PCIe SSD,,720P,0.99Kg,135000,Thin and Light Ultrabook
+318,Acer,"AMD 6th Generation, AMD Ryzen 5-6600H Processor, 3.30 GHz, Hexa-core (6 Core)","NVIDIA GeForce RTX 3060 6GB GDDR6, 130 W Graphics Card",8GB DDR5 4200Mhz; Expandable up to 32GB,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,2.2Lbs,135000,Normal
+319,Acer,"AMD Ryzen 7 5800U (8C / 16T, 1.9 / 4.4GHz, 4MB L2 / 16MB L3)",NVIDIA RTX 3050ti 4GB,16GB LPDDR4 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,3.06Lbs,137000,Thin and Light Ultrabook
+320,Acer,Intel Core i7-10750H 2.60 GHz Turbo up to 5.0GHz,NVIDIA GeForce RTX 3060 with 6GB GDDR6,8GB DDR4 3200MHz Memory,"15.6""  144Hz LCD ComfyView In-plane Switching (IPS) Technology Full HD Backlight Technology LED 1920 x 1080 Pixels",512 GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.07Lbs,140000,Normal
+321,Acer,Intel11th Generation Intel Core i5-11400H 6-Core Processor,NVIDIA GeForce RTX 3060 Graphics with 6GB of dedicated GDDR6 VRAM,16GB DDR4-3200MHz,"15.6"" display with IPS, QHD 2560 x 1440, high-brightness (300 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, 3 ms Overdrive, 16:9 aspect ratio, DCI-P3 100%",512GB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.07lb,140000,Gaming Laptop
+322,Acer,"Intel® Core™ i7-1355U processor (Up to 5GHz, 12MB smart cache , Deca Core )",NVIDIA GeForce RTX,16GB  DDR5 RAM,"15.6"" display with IPS, QHD",512GB PCIe NVMe Gen3 SSD,,FHD (1920 x 1080) with Blue Glass,3.75Lb,141000,Budget Notebook
+323,Acer,"Intel® Core™ i7-1260P Processor 2.1 GHz (18M Cache, up to 4.7 GHz, 4P+8E cores)",NVIDIA®GeForce® RTX™ 3050,16GB LPDDR5 RAM,"15.6"" display with IPS, QHD",256GB SSD,,720P,3.06Lbs,145000,Thin and light ultrabook
+324,Acer,Intel® Core™ i7-1165G7 processor Quad-core 2.80 GHz,Intel Iris Xe Graphic,8GB LPDDR4x,13.3-inch IPS Multi-touch display; WUXGA (2560 x 1600 pixels) resolution; LED-backlit Display with AES Pen Support; 16:10 Aspect Ratio,256GB SSD,,720p,3.31 Lbs,146000,Normal
+325,Acer,"AMD Ryzen 7 5800H (8C / 16T, 3.2 / 4.4GHz, 4MB L2 / 16MB L3)",NVIDIA GeForce RTX 3060 with 6GB GDDR6,16GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,149000,Gaming Laptop
+326,Acer,"Intel Core i7-13700H, 14C (6P + 8E) / 20T, P-core up to 5.0GHz, E-core up to 3.7GHz, 24MB",Intel IRIS XE,16GB LPDDR5 RAM,"15.6"" display with IPS, QHD",256GB SSD,,QHD Webcam (2560 x 1440) with Blue Glass Lens supporting 1440p QHD video,1.25Kg,156000,Thin and light ultrabook
+327,Acer,"Intel® Core™ i7 1260P Processor 2.1 GHz (18M Cache, up to 4.7 GHz, 4P+8E cores)",Intel Iris XE Graphic,16GB LPDDR5 RAM,"15.6"" display with IPS, QHD",256GB SSD,,1080P,2.65Lbs,158000,Thin and light ultrabook
+328,Acer,11th Generation Intel Core i7-11800H 8 Core Processor,NVIDIA GeForce RTX 3050Ti Graphics with 4GB of dedicated GDDR6 VRAM,16GB DDR4-3200,"15.6"" display with IPS, QHD 2560 x 1440, high-brightness (300 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, 3 ms Overdrive, 16:9 aspect ratio, DCI-P3 100%",1TB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.51lb,159000,Normal
+329,Acer,"AMD 6th Generation, AMD Ryzen 7-6800H Processor, 3.20 GHz, Octa-core (8 Core)","NVIDIA GeForce RTX 3060 6 GB GDDR6, 130 W Graphics Card",16 GB DDR5 4200Mhz; Expandable up to 32GB,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,512GB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,2.2Lbs,160000,Normal
+330,Acer,"11th Gen Intel Core i7-11370H Processor 3.3 GHz, 4 cores (12M Cache, up to 4.8GHz)",NVIDIA GeForce RTX 3050Ti Graphics with 4GB of dedicated GDDR6 VRAM,16GB DDR4-3200MHz,14-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate; 100% sRGB color coverage,512GB SSD,"4-cell Li-ion  Battery Pack, 6 Hours",720p,1.8Kg,170000,Gaming Laptop
+331,Acer,11th Generation Intel Core i7-11800H 8 Core Processor,NVIDIA GeForce RTX 3060 Graphics with 6GB of dedicated GDDR6 VRAM,16GB DDR4-3200,"15.6"" display with IPS, QHD 2560 x 1440, high-brightness (300 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, 3 ms Overdrive, 16:9 aspect ratio, DCI-P3 100%",1TB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.51lb,175000,Normal
+332,Acer,Intel10th Generation Intel Core i7-10750H 6-Core Processor (Up to 5. 0GHz),NVIDIA GeForce RTX 2060 Graphics with 6GB of dedicated GDDR6 VRAM,16GB DDR4-2933MHz,"15.6 inches Full HD (1920 x 1080) Widescreen LED-backlit IPS Display (120Hz Refresh Rate, 3ms Overdrive Response Time, 300nit Brightness and 72 percentage NTSC)",512GB SSD,"59 Watt-Hours , 4-cell Li-ion  Battery Pack",720p,4.41 lb,180000,Normal
+333,Acer,"AMD Ryzen 7 5800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost)",NVIDIA GeForce RTX 3070 with 8GB GDDR6,8GB DDR4-3200MHz,15.6-inch IPS display; Full-HD (1920 x 1080 pixels) resolution; 144Hz refresh rate,1TB SSD,4-cell Lithium-Ion (Li-Ion) 3320 mAh,720p,5.29Lbs,185000,Gaming Laptop
+334,Acer,"Intel Core i7-10875H (8C/16T, 2.3GHz with boost up to 5.1GHz)",NVIDIA GeForce RTX 2070 Graphics with 8GB of dedicated GDDR6 VRAM,16GB DDR4-2933MHz,"15. 6"" Full HD (1920 x 1080) widescreen LED-backlit IPS display with NVIDIA G-SYNC technology | 144Hz Refresh Rate | 3ms Overdrive Response Time | 300nit Brightness | 100% sRGB",512GB SSD,"84 Watt-Hours, 4-cell Li-ion  Battery Pack",720p,4.63 lb,185000,Normal
+335,Acer,10th Generation Intel Core i7-10750H 6 Core Processor,NVIDIA GeForce RTX 3060 Graphics with 6GB of dedicated GDDR6 VRAM,16GB DDR4-3200,"15.6 inches Full HD (1920 x 1080 pixels) Widescreen LED-backlit IPS Display (144Hz Refresh Rate, 3ms Overdrive Response Time, 300nit Brightness and 72 percentage NTSC)",1TB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.51lb,199000,Normal
+336,Acer,11th Generation Intel Core i7-11800H 8 Core Processor,NVIDIA GeForce RTX 3070 Graphics with 8GB of dedicated GDDR6 VRAM,16GB DDR4-3200,"15.6"" display with IPS, QHD 2560 x 1440, high-brightness (300 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, 3 ms Overdrive, 16:9 aspect ratio, DCI-P3 100%",1TB SSD,"3720mAh, 4-cell Li-ion  Battery Pack",720p,5.51lb,199000,Powerful gaming laptop
+337,Acer,"13th Generation Intel Core i7-13700H 14-core, 20-threads 2.40GHz 
+(Turbo up to 4.60GHz) 24MB Intel Smart Cache",NVIDIA GeForce RTX 4050 Graphics with 6GB of dedicated GDDR6 VRAM,16GB DDR5-4800,"16"" display with IPS, WUXGA 1920 x 1200  pixels, high-brightness (300 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, 3 ms Overdrive, 16:9 aspect ratio, DCI-P3 100%",1TB SSD,"90Whr, 4-cell Li-ion  Battery Pack",720p,5.51lb,211000,Powerful gaming laptops
